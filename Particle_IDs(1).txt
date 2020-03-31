@@ -1,0 +1,582 @@
+0000-Flower
+0001-Flower
+0002-Flower
+0003-Flower
+0004-Flower
+0005-Flower
+0006-Sparkle
+0007-Dirt
+0008-Sand
+0009-Smoke
+000A-Water
+000B-Dirt
+000C-Water
+000D-Flower
+000E-Flower
+000F-Flower
+0010-Flower
+0011-Flower
+0012-Flower
+0013-Flower
+0014-Flower
+0015-Flower
+0016-Flower
+0017-Flower
+0018-Flower
+0019-Firework Zero
+001A-Firework One
+001B-Firework Two
+001C-Firework Three
+001D-Firework Four
+001E-Firework Five
+001F-Firework Six
+0020-Firework Seven
+0021-Firework Eight
+0022-Firework Nine
+0023-Firework 
+0024-Firework
+0025-Firework
+0026-Firework
+0027-Firework
+0028-Firework
+0029-Firework
+002A-Leaves
+002B-Leaves
+002C-Leaves
+002D-Leaves
+002E-Leaves
+002F-Leaves
+0030-Leaves
+0031-Leaves
+0032-Leaves
+0033-Leaves
+0034-Leaves
+0035-Leaves
+0036-Leaves
+0037-Leaves
+0038-Leaves
+0039-Leaves
+003A-Leaves
+003B-Leaves
+003C-Leaves
+003D-Leaves
+003E-Leaves
+003F-Leaves
+0040-Leaves
+0041-Leaves
+0042-Leaves
+0043-Leaves
+0044-Leaves
+0045-Leaves
+0046-Leaves
+0047-Leaves
+0048-Leaves
+0049-Leaves
+004A-Leaves
+004B-Leaves
+004C-Leaves
+004D-Leaves
+004E-Leaves
+004F-Leaves
+0050-Leaves
+0051-Leaves
+0052-Leaves
+0053-Leaves
+0054-Leaves
+0055-Leaves
+0056-Leaves
+0057-Leaves
+0058-Leaves
+0059-Leaves
+005A-Leaves
+005B-Leaves
+005C-Leaves
+005D-Leaves
+005E-Leaves
+005F-Leaves
+0060-Leaves
+0061-Leaves
+0062-Leaves
+0063-Leaves
+0064-Leaves
+0065-Leaves
+0066-Leaves
+0067-Leaves
+0068-Leaves
+0069-Leaves
+006A-Leaves
+006B-Leaves
+006C-Leaves
+006D-Leaves
+006E-Leaves
+006F-Leaves
+0070-Leaves
+0071-Leaves
+0072-Leaves
+0073-Leaves
+0074-Leaves
+0075-Leaves
+0076-Leaves
+0077-Leaves
+0078-Leaves
+0079-Leaves
+007A-Leaves
+007B-Leaves
+007C-Leaves
+007D-Leaves
+007E-Leaves
+007F-Leaves
+0080-Leaves
+0081-Leaves
+0082-Leaves
+0083-Leaves
+0084-Leaves
+0085-Leaves
+0086-Flowers
+0087-Flowers
+0088-Flowers
+0089-small red balls
+008A-Flowers
+008B-Flowers
+008C-Leaves
+008D-Leaves
+008E-Leaves
+008F-Leaves
+0090-Leaves
+0091-Leaves
+0092-Leaves
+0093-Leaves
+0094-Leaves
+0095-Leaves
+0096-Leaves
+0097-Leaves
+0098-Leaves
+0099-Leaves
+009A-Leaves
+009B-Leaves
+009C-Leaves
+009D-Leaves
+009E-Leaves
+009F-Leaves
+00A0-Leaves
+00A1-Leaves
+00A2-Leaves
+00A3-Leaves
+00A4-Leaves
+00A5-Leaves
+00A6-Leaves
+00A7-Leaves
+00A8-Leaves
+00A9-Leaves
+00AA-Leaves
+00AB-Leaves
+00AC-Leaves
+00AD-Leaves
+00AE-Leaves
+00AF-Leaves
+00B0-Leaves
+00B1-Leaves
+00B2-Leaves
+00B3-Leaves
+00B4-Leaves
+00B5-Leaves
+00B6-Leaves
+00B7-Leaves
+00B8-Leaves
+00B9-Leaves
+00BA-Leaves
+00BB-Leaves
+00BC-Leaves
+00BD-Leaves
+00BE-Leaves
+00BF-Leaves
+00C0-LEAVES
+00C1-LEAVES
+00C2-LEAVES
+00C3-LEAVES
+00C4-LEAVES
+00C5-LEAVES
+00C6-LEAVES
+00C7-LEAVES
+00C8-LEAVES
+00C9-LEAVES
+00CA-LEAVES
+00CB-LEAVES
+00CC-LEAVES
+00CD-LEAVES
+00CE-LEAVES
+00CF-LEAVES
+00D0-LEAVES
+00D1-LEAVES
+00D2-LEAVES
+00D3-Snow
+00D4-Smoke
+00D5-idk particle
+00D6-idk particle
+00D7-idk particle
+00D8-Smoke
+00D9-Fire
+00DA-Smoke
+00DB-Footprint
+00DC-Footprint
+00DD-Footprint
+00DE-Footprint
+00DF-Foorprint
+00E0-Footprint
+00E1-Footprint
+00E2-Footprint
+00E3-Footprint
+00E4-Footprint
+00E5-Footprint
+00E6-Water
+00E7-Water
+00E8-Water
+00E9-Water
+00EA-Water
+00EB-Water
+00EC-Water
+00ED-Wasps?
+00EE-Wasps?
+00EF-Wasps?
+00F0-Firework
+00F1-Firework
+00F2-Firework
+00F3-Firework
+00F4-Water
+00F5-Water
+00F6-Water
+00F7-Water
+00F8-Water
+00F9-Water
+00FA-Stars
+00FB-Water
+00FC-Water
+00FD-Flowers
+00FE-Flowers
+00FF-Flowers
+0100-Flowers
+0101-Flowers
+0102-Flowers
+0103-Flowers
+0104-Flowers
+0105-Flowers
+0106-Flowers
+0107-Flowers
+0108-Flowers
+0109-Flowers
+010A-Flowers
+010B-Flowers
+010C-Dirt
+010D-Red Light
+010E-Water
+010F-Fearful emote
+0110-Sorrow emote1
+0111-Sorrow emote2
+0112-Shoked emote
+0113-Joy emote
+0114-Disbelief emote
+0115-Cold Chill emote1
+0116-Cold Chill emote2
+0117-Thought emote
+0118-Aggravation emote
+0119-Sleepy emote
+011A-Aggravation emote
+011B-Villager Sadness emote
+011C-Vilager Glee emote
+011D-idk particle
+011E-Outrage emote
+011F-Sadness emote
+0120-Sighing emote
+0121-idk particle
+0123-Bashfulness emote
+0124-Glee emote
+0125-Glee emote
+0126-Laughter emote
+0127-Mischief emote
+0128-Mischief emote
+0129-Flea
+012A-Purple Smoke
+012B-Dirt
+012C-Dirt
+012D-Sleepy Bubbles
+012E-Flowers
+012F-Flowers
+0130-Flowers
+0131-Flowers
+0132-Flowers
+0133-Flowers
+0134-Flowers
+0135-Flowers
+0136-Flowers
+0137-Dirt
+0138-Sand
+0139-Water
+013A-Smoke
+013B-Water
+013C-Sand
+013D-Water
+013E-Water
+013F-Water
+0140-WATER
+0141-WATER
+0142-Sleeping particle
+0143-Dirt
+0144-Dirt
+0145-Water
+0146-Water
+0147-Water
+0148-Water
+0149-Water
+014A-Water
+014B-Water
+014C-Water
+014D-Water
+014E-Water
+014F-Smoke
+0150-Flowers
+0151-Flowers
+0152-Flowers
+0153-Flowers
+0154-Flowers
+0155-Flowers
+0156-Flowers
+0157-Flowers
+0158-Flowers
+0159-Flowers
+015A-Flowers
+015B-Flowers
+015C-Flowers
+015D-Dirt
+015E-Sand
+015F-Dirt
+0160-Sand
+0161-Sand
+0162-Dirt
+0163-Dirt
+0164-Sand
+0165-Smoke
+0166-WATER
+0167-Smoke
+0168-Stars
+0169-Water
+016A-Dirt
+016B-Footprints
+016C-Sand
+016D-Smoke
+016E-Smoke
+016F-Smoke
+0170-Water
+0171-Water
+0172-Flowers
+0173-Flowers
+0174-Flowers
+0175-Flowers
+0176-Flowers
+0177-Flowers
+0178-Flowers
+0179-Flowers
+017A-Flowers
+017B-Flowers
+017C-Flowers
+017D-Flowers
+017E-Flowers
+017F-Flowers
+0180-Flowers
+0181-Flowers
+0182-Flowers
+0183-Water
+0184-Water
+0185-Fire
+0186-idk particle
+0187-Smoke
+0188-Smoke
+0189-Smoke
+018A-Smoke
+018B-Smoke
+018C-Smoke
+018D-Smoke
+018E-Smoke
+018F-Amiibo effect
+0190-Smoke
+0191-purple smoke
+0192-Smoke
+0193-STAR
+0194-STAR
+0195-STAR
+0196-STAR
+0197-STAR
+0198-Dirt
+0199-Dirt
+019A-Weed plucking
+019B-Weed plucking
+019C-Weed plucking
+019D-Weed plucking
+019E-Weed plucking
+019F-Weed plucking
+01A0-Weed plucking
+01A1-Weed plucking
+01A2-Weed plucking
+01A3-Weed plucking
+01A4-Weed plucking
+01A5-Weed plucking
+01A6-Weed plucking
+01A7-Weed plucking
+01A8-Weed plucking
+01A9-Weed plucking
+01AA-Weed plucking
+01AB-Weed plucking
+01AC-Clovers plucking
+01AD-Clovers plucking
+01AE-Clovers plucking
+01AF-Clovers plucking
+01B0-Clovers plucking
+01B1-Clovers plucking
+01B2-Clovers plucking
+01B3-Clovers plucking
+01B4-Clovers plucking
+01B5-Clovers plucking
+01B6-Clovers plucking
+01B7-Clovers plucking
+01B8-Clovers plucking
+01B9-Clovers plucking
+01BA-Clovers plucking
+01BB-Clovers plucking
+01BC-Clovers plucking
+01BD-Clovers plucking
+01BE-Sand
+01BF-Sand
+01C0-Sand
+01C1-Dirt
+01C2-Dirt
+01C3-Dirt
+01C4-Dirt
+01C5-Dirt
+01C6-Dirt
+01C7-Dirt
+01C8-Dirt
+01C9-Dirt
+01CA-Dirt
+01CB-Dirt
+01CC-Dirt
+01CD-Dirt
+01CE-Water
+01CF-Water
+01D0-Water
+01D1-Water
+01D2-Water
+01D3-Water
+01D4-Water
+01D5-Water
+01D6-Water
+01D7-Water
+01D8-Water
+01D9-Fire
+01DA-Confetti
+01DB-Smoke
+01DC-Confetti
+01DD-Confetti
+01DE-Little Flowers
+01DF-Smoke
+01E0-Firework 
+02E1-Firework
+01E2-Firework 
+01E3-Firework 
+01E4-Dirt
+01E5-Smoke
+01E6-Fire
+01E7-Smoke
+01E8-Firework
+01E9-Smoke
+01EA-Smoke
+01EB-Smoke
+01EC-Smoke
+01ED-Smoke
+01EE-Smoke
+01EF-Firework
+01F0-Firework
+01F1-Firework
+01F2-Water
+01F3-Water
+01F4-Snowflake
+01F5-Smoke
+01F6-Rock Breaks
+01F7-Smoke?
+01F8-Water
+01F9-Water
+01FA-Water
+01FB-Cockroach Ghost
+01FC-Firefly
+01FD-Dirt
+01FE-Dirt
+01FF-Water
+0200-Magnifying Glass
+0201-Axe breaks
+0202-Silver Axe breaks
+0203-Leafs?
+0204-Bean
+0205-Beans
+0206-idk effect
+0207-Water
+0208-Nothing
+0209-Smoke
+020A-Confetti
+020B-dandelion puffs
+020C-Star particle
+020D-roman candle
+020E-sparkler
+020F-idk effect
+0210-Water
+0211-Water
+0212-fountain firework
+0213-Nothing
+0214-Star particle
+0215-bubble wand
+0216-famous mushroom -> smaller
+0217-famous mushroom -> bigger
+0218-Water
+0219-Star particle
+021A-Star particle
+021B-Star particle
+021C-Water
+021D-Wood chips?
+021E-Water
+021F-Sunniness emote
+0220-Unused emote
+0221-Flourish emote
+0222-Daydreaming emote
+0223-Faint
+0224-Unused emote
+0225-Unused emote
+0226-Joy emote
+0227-Part of the Outrage/ Aggravation emote
+0228-Part of the Outrage emote
+0229-Mistaken emote
+022A-Showmanship emote
+022B-Pride emote
+022C-Water
+022D-talking
+022E-Water
+022F-Water?
+0230-Smoke
+0231-Smoke
+0232-feathers
+0233-feathers
+0234-feathers
+0235-feathers
+0236-feathers
+0237-feathers
+0238-feathers
+0239-feathers
+023A-idk particles
+023B-still do not know particles
+023C-Smoke
+023D-Smoke
+023E-Water
+023F-Water
+0240-Water
+0241-Water
+0242-Water
+0243-Smoke
+0244-Water
+0245-Water
+0246-Water
