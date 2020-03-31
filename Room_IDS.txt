@@ -1,0 +1,169 @@
+Value       Room                                               Place                 Internal Name
+---------------------------------------------------------------------------------------------------------
+
+00      Town                                                  Outdoor               Village
+01      Main Street                                           Outdoor               Downtown
+02      Train Station                                         Indoor                Station
+03      Player 1 Main Room                                    Indoor                PlayerHouse0_1F
+04      Player 1 Upstairs                                     Indoor                PlayerHouse0_2F
+05      Player 1 Basement                                     Indoor                PlayerHouse0_BF
+06      Player 1 Right Room                                   Indoor                PlayerHouse0_Right
+07      Player 1 Left Room                                    Indoor                PlayerHouse0_Left
+08      Player 1 Top Room                                     Indoor                PlayerHouse0_Back
+09      Player 2 Main Room                                    Indoor                PlayerHouse1_1F
+0A      Player 2 Upstairs                                     Indoor                PlayerHouse1_2F
+0B      Player 2 Basement                                     Indoor                PlayerHouse1_BF
+0C      Player 2 Right Room                                   Indoor                PlayerHouse1_Right
+0D      Player 2 Left Room                                    Indoor                PlayerHouse1_Left
+0E      Player 2 Top Room                                     Indoor                PlayerHouse1_Back
+0F      Player 3 Main Room                                    Indoor                PlayerHouse2_1F
+10      Player 3 Upstairs                                     Indoor                PlayerHouse2_2F
+11      Player 3 Basement                                     Indoor                PlayerHouse2_BF
+12      Player 3 Right Room                                   Indoor                PlayerHouse2_Right
+13      Player 3 Left Room                                    Indoor                PlayerHouse2_Left
+14      Player 3 Top Room                                     Indoor                PlayerHouse2_Back
+15      Player 4 Main Room                                    Indoor                PlayerHouse3_1F
+16      Player 4 Upstairs                                     Indoor                PlayerHouse3_2F
+17      Player 4 Basement                                     Indoor                PlayerHouse3_BF
+18      Player 4 Right Room                                   Indoor                PlayerHouse3_Right
+19      Player 4 Left Room                                    Indoor                PlayerHouse3_Left
+1A      Player 4 Top Room                                     Indoor                PlayerHouse3_Back
+1B      Villager 1 House                                      Indoor                NpcHouse0
+1C      Villager 2 House                                      Indoor                NpcHouse1
+1D      Villager 3 House                                      Indoor                NpcHouse2
+1E      Villager 4 House                                      Indoor                NpcHouse3
+1F      Villager 5 House                                      Indoor                NpcHouse4
+20      Villager 6 House                                      Indoor                NpcHouse5
+21      Villager 7 House                                      Indoor                NpcHouse6
+22      Villager 8 House                                      Indoor                NpcHouse7
+23      Villager 9 House                                      Indoor                NpcHouse8
+24      Villager 10 House                                     Indoor                NpcHouse9
+25      Camping Grounds                                       Indoor                CampNpc
+26      Town Hall                                             Indoor                Office
+27      Arriving in town via train                            Cutscene              StationEntryDemo
+28      Leaving a town via train                              Cutscene              StationRetireDemo
+29      Arriving in your town from another town via train     Cutscene              StationComeHomeDemo
+2A      First time arriving from the train (start of game)    Cutscene              StationPrologueDemo
+2B      Retail                                                Indoor                RecycleShop
+2C      Nat's Tent (Bug-Off)                                  Indoor                InsectAwardTent
+2D      Bug-Off Ceremony                                      Cutscene              InsectAwardTentDemo
+2E      Chip's Tent (Fishing Tourney)                         Indoor                FishAwardTent
+2F      Fishing Tourney Ceremony                              Cutscene              FishAwardTentDemo
+30      Police Station (Copper)                               Indoor                PoliceBoxA
+31      Police Station (Booker)                               Indoor                PoliceBoxB
+32      The Roost Café                                        Indoor                Cafe
+33      Working In The Roost Café                         Sequence & Indoor         CafeArbeit
+34      Reset Centre                                          Indoor                ResetMonitoringCenter
+35      Redd's Tent                                           Indoor                Gallery
+36      Katrina's Tent                                        Indoor                FortuneTent
+37      Katrina's Main Street Shop                            Indoor                Fortune
+38      Nook's Cranny                                         Indoor                Shop
+39      T&T Mart                                              Indoor                ConvenienceStore
+3A      Super T&T                                             Indoor                Supermarket
+3B      TIY                                                   Indoor                HomeCenter
+3C      T&T Emporium - Ground Floor                           Indoor                DepartmentStore_1F
+3D      T&T Emporium - Floor 1                                Indoor                DepartmentStore_2F
+3E      GracieGracie (T&T Emporium - Floor 2)                 Indoor                DepartmentStore_3F
+3F      Able Sisters - Mable & Sable (Clothing)               Indoor                Tailor
+40      Able Sisters - Labelle (Accessories)                  Indoor                AccessoryShop
+41      Nook's Homes (House Exteriors)                        Indoor                RealEstateAgency
+42      Kick's (Shoe Shop)                                    Indoor                ShoeShop
+43      Gardening Store (Initial)                             Indoor                Florists
+44      Gardening Store (Joint w/ TIY)                        Indoor                Florists_HomeImprovementCenter
+45      Club LOL                                              Indoor                CLUB444
+46      Club LOL Night Disco                                  Indoor                CLUB444_DJKK
+47      Club LOL Saturday Night (K.K. Songs)                  Indoor                CLUB444_Live
+48      Shampoodle                                            Indoor                BeautySalon
+49      Museum - Ground Floor                                 Indoor                Museum_Entrance
+4A      Fish Gallery - Main Room                              Indoor                Museum_Fish0
+4B      Fish Gallery - North West Room                        Indoor                Museum_Fish1
+4C      Fish Gallery - North East Room                        Indoor                Museum_Fish2
+4D      Bug Gallery - Main Room                               Indoor                Museum_Insect0
+4E      Bug Gallery - North East Room                         Indoor                Museum_Insect1
+4F      Bug Gallery - North West Room                         Indoor                Museum_Insect2
+50      Fossil Gallery - Main Room                            Indoor                Museum_Fossil0
+51      Fossil Gallery - South Room                           Indoor                Museum_Fossil1
+52      Fossil Gallery - North West Room                      Indoor                Museum_Fossil2
+53      Art Gallery - Main Room                               Indoor                Museum_Picture0
+54      Art Gallery - East Room                               Indoor                Museum_Picture1
+55      Museum - 1st Floor (Shop)                             Indoor                Museum_Shop
+56      Museum Exhibit - North West                           Indoor                Museum_Showroom1
+57      Museum Exhibit - South West                           Indoor                Museum_Showroom2
+58      Museum Exhibit - North East                           Indoor                Museum_Showroom3
+59      Museum Exhibit - South East                           Indoor                Museum_Showroom4
+5A      Post Office                                           Indoor                PostOffice
+5B      Dream Suite                                           Indoor                Dream
+5C      Photo Booth                                           Indoor                PhotoBox
+5D      Game's Initial Setup Train Ride                    Sequence & Indoor        Train
+5E      Title Screen                                      Sequence & Outdoor        Title
+5F      !st arrival at train station (start of game)          Cutscene              VillagePrologue
+60      Saving Screen                                         Cutscene              Save
+61      After Save & Quit (Black Screen -> Title Screen)      Cutscene              Load
+62      Black Screen                                          Cutscene              Format
+63      Isabelle Spotlight/ Load Town Area                Sequence & Indoor         PlayerSelect
+64      Coming Back From A Dream (Dream Suite Bed)            Cutscene              DreamReturn
+65      On Kappn's Boat Going To The Island                   Cutscene              SeaDeparture
+66      On Kappn's Boat Leaving The Island                    Cutscene              SeaReturn
+67      Island Shack                                          Indoor                TourDesk
+68      Island                                                Outdoor               LobbyIsland
+69      Tour - Hide n' Seek                                   Outdoor               Island_HideAndSeek
+6A      Tour - Hide n' Seek - (Results)                       Cutscene              Island_HideAndSeekResult
+6B      Tour - Flower Picking                                 Outdoor               Island_FlowerPicking
+6C      Tour - Flower Picking (Results)                       Cutscene              Island_FlowerPickingResult
+6D      Island Tour - Fishing                                 Outdoor               Island_Fishing
+6E      Island Tour - Fishing (Results)                       Cutscene              Island_FishingResult
+6F      Tour - Bug Catching                                   Outdoor               Island_InsectCatching
+70      Tour - Bug Catching (Results)                         Cutscene              Island_InsectCatchingResult
+71      Tour - Balloon Popping                                Outdoor               Island_Balloon
+72      Tour - Balloon Popping (Results)                      Cutscene              Island_BalloonResult
+73                                                            Outdoor               Island_TreasureHunt
+74                                                            Cutscene              Island_TreasureHuntResult
+75                                                            Outdoor               Island_PikoHan
+76                                                            Cutscene              Island_PikoHanResult
+77      Island Tour - Labyrinth                               Outdoor               Island_Maze
+78      Island Tour - Labyrinth - End Results                 Cutscene              Island_MazeResult
+79                                                            Outdoor               Island_Mining
+7A                                                            Cutscene              Island_MiningResult
+7B                                                            Outdoor               Island_FossilDig
+7C                                                            Cutscene              Island_FossilDigResult
+7D                                                            Outdoor               Island_Diving
+7E                                                            Cutscene              Island_DivingResult
+7F                                                            Outdoor               Island_BorrowingRace
+80                                                            Cutscene              Island_BorrowingRaceResult
+81                                                                                  Island_Hut0
+82                                                                                  Island_Hut1
+83                                                                                  Island_Hut2
+84                                                                                  Island_Hut3
+85                                                                                  Island_Hut4
+86                                                                                  Island_Hut5
+87                                                                                  Island_Hut6
+88                                                                                  Island_Hut7
+89                                                                                  Island_Hut8
+8A                                                                                  Island_Hut9
+8B                                                                                  RandomMatchingEntry
+8C                                                                                  RandomMatchingRetire
+8D                                                                                  PrepareTour
+8E                                                                                  Exhibition_Entrance
+8F                                                                                  Exhibition_North
+90                                                                                  Exhibition_East
+91                                                                                  Exhibition_West
+92                                                                                  ModelHouse_1F
+93                                                                                  ModelHouse_2F
+94                                                                                  ModelHouse_BF
+95                                                                                  ModelHouse_Right
+96                                                                                  ModelHouse_Left
+97                                                                                  ModelHouse_Back
+98                                                                                  IncludeSave
+99      Move town to AC:WA version of game                    Sequence              GardenManualImport
+9A      Isabelle on stage, talking about AC:HHD in ACNL       Sequence              TakumiImport
+9B      Isabelle on train, introduction to WA features        Cutscene              GardenPlusUpdate
+9C      Player select for Isabelle on train (9C -> 9B)        Sequence              UpdateSelect
+9D      Desert Island Escape Minigame (Wii U)                 Outdoor               MiniGame0
+9E      Puzzle League Minigame                                Outdoor               MiniGame1
+9F      Campground - West                                     Outdoor               AutoCampL
+A0      Campground - East                                     Outdoor               AutoCampR
+A1      Special Character RV                                  Indoor                CampingCarA
+A2      Villager RV                                           Indoor                CampingCarB
+A3      Move Furniture Like AC:HHD Tutorial (w/ Lottie)       Indoor                ChipTutorial
+A4      Amiibo Camera                                         Sequence?             AmiiboCamera
+A5      Default (Invalid) Value
