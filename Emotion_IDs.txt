@@ -1,61 +1,62 @@
-1 - Happiness 
-2 - Laughter 
-3 - Joy 
-4 - Love 
-5 - Glee 
-6 - Anger 
-7 - Aggravation 
-8 - Outrage 
-9 - Worry 
-A - Sighing 
-B - Thought 
-C - Sadness 
-D - Distress 
-E - Sorrow 
-F - Unused (Alarmed) 
-10 - Surprise 
-11 - Disbelief 
-12 - Shocked 
-13 - Cold Chill 
-14 - Fearful 
-15 - Agreement 
-16 - Inspiration 
-17 - Curiosity 
-18 - Heartbreak 
-19 - Sleepy 
-1A - Bashfulness 
-1B - Resignation 
-1C - Mischief 1D - Delight 
-1E - Sneezing 
-1F - Unused (Yelling with stars) 
-20 - Greetings 
-21 - Pride 
-22 - Unused (Hot outside with sleeves on) 
-23 - Unused (Glare) 
-24 - Sheepishness 
-25 - Unused (Eyes blink) 
-26 - Sunniness 
-27 - Shyness 
-28 - Disagreement 
-29 - Mistaken 
-2A - Flourish 
-2B - Daydreaming 
-2C - Showmanship 
-2D - Unused (Sleep bubble) 
-2E - Shrunk Funk Shuffle
-2F - Lie on the ground 
-30 - (Resetti) Aggravate(?) 
-31 - (Resetti) Worry 
-32 - (Resetti) Cold Chill 
-33 - (Resetti) Surprise 
-34 - (Resetti) Annoyed(?) 
-35 - (Resetti) Sadness(?) [Looks like laughing for player] 
-36 - (Resetti) Outrage(?) 
-37 - (Resetti) Thinking(?) ["Devilish Smile"] 38 - Police Solute (Indoors Only) 39 - ? 
-3A - ? 
-3B - (Nat?) Exclamation mark after examining a bug 
-3C - Distress (+Beeping Sounds Indoors) [Sound Only] 
-3D - (Katrina) Arms out when reading fortune [Katrina's Shop Only] 
-3E - (Katrina) Animation after getting fortune [Sound Indoor Only] 
-3F - (Chip) Examining Fish 
-40 - ? ["Shaking A Box"]
+01 Happiness 
+02 Laughter 
+03 Joy 
+04 Love 
+05 Glee 
+06 Anger 
+07 Aggravation 
+08 Outrage 
+09 Worry 
+0A Sighing 
+0B Thought 
+0C Sadness 
+0D Distress 
+0E Sorrow 
+0F Unused (Alarmed) 
+10 Surprise 
+11 Disbelief 
+12 Shocked 
+13 Cold Chill 
+14 Fearful 
+15 Agreement 
+16 Inspiration 
+17 Curiosity 
+18 Heartbreak 
+19 Sleepy 
+1A Bashfulness 
+1B Resignation 
+1C Mischief 
+1D Delight 
+1E Sneezing 
+1F Unused (Yelling with stars) 
+20 Greetings 
+21 Pride 
+22 Unused (Hot outside with sleeves on) 
+23 Unused (Glare) 
+24 Sheepishness 
+25 Unused (Eyes blink) 
+26 Sunniness 
+27 Shyness 
+28 Disagreement 
+29 Mistaken 
+2A Flourish 
+2B Daydreaming 
+2C Showmanship 
+2D Unused (Sleep bubble) 
+2E Shrunk Funk Shuffle
+2F Lie on the ground 
+30 (Resetti) Aggravate(?) 
+31 (Resetti) Worry 
+32 (Resetti) Cold Chill 
+33 (Resetti) Surprise 
+34 (Resetti) Annoyed(?) 
+35 (Resetti) Sadness(?) [Looks like laughing for player] 
+36 (Resetti) Outrage(?) 
+37 (Resetti) Thinking(?) ["Devilish Smile"] 38 - Police Solute (Indoors Only) 39 - ? 
+3A ? 
+3B (Nat?) Exclamation mark after examining a bug 
+3C Distress (+Beeping Sounds Indoors) [Sound Only] 
+3D (Katrina) Arms out when reading fortune [Katrina's Shop Only] 
+3E (Katrina) Animation after getting fortune [Sound Indoor Only] 
+3F (Chip) Examining Fish 
+40 ? ["Shaking A Box"]
