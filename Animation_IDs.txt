@@ -1,0 +1,254 @@
+01 Freeze
+02 Freeze
+03 Sit in Kappns boat
+04 Freeze
+05 Idle
+06 Idle
+07 Idle
+08 Idle
+09 Idle
+0A Idle
+0B Idle
+0C Idle
+0D Idle
+0E Sliding
+0F Freeze
+10 Sitting
+11 Laying
+12 Swimming on point
+13 Freeze
+14 Freeze
+15 Player circling around
+16 Thinking (Inventory)
+17 Freeze
+18 Player vanishes
+19 Freeze
+1A Freeze
+1B Pockets too full to put away equipment
+1C Jumping (in water)
+1D Walking in to water
+1E Try to swim without water
+1F Idle
+20 Idle
+21 Diving
+22 Player dives out of water
+23 Player dives out of water
+24 You found something under water 
+25 Go out of water and do fearful emotion
+26 Jellyfish sting
+27 While jellyfish sting
+28 After jellyfish sting
+29 Empty text box
+2A Freeze
+2B Player vanishes
+2C Player vanishes
+2D Player vanishes
+2E Player vanishes
+2F Player walks from behind
+30 Player walks from behind
+31 Player walks from behind
+32 Player walks from behind
+33 Player vanishes
+34 Player blinks up
+35 Player blinks up
+36 Freeze
+37 Freeze
+38 Equip item
+39 Sparkle (Change outfit)
+3A Unequip item
+3B Unequip item (Freeze)
+3C Idle
+3D Pick up item
+3E Pick up item (Can't pickup so inv opens)
+3F Pick up item (Can't pickup so inv opens)
+40 Pluck weed
+41 Crash
+42 Crash
+43 Freeze
+44 Freeze
+45 Close door (Freeze)
+46 Freeze
+47 Player vanishes
+48 Close door (Freeze)
+49 Shovel hits something
+4A Shovel hits nothing
+4B Shovel hits nothing
+4C Shovel hits something strong 
+4D Shovel hits something strong 
+4E Shovel unknown 
+4F Crash
+50 Crash
+51 Put item to pocket (Crash)
+52 Crash
+53 Crash
+54 Text Box (Should I bury this for now?)
+55 Axe hits nothing
+56 Idle
+57 Axe hits nothing
+58 Axe hits something strong
+59 Axe hits something strong
+5A Axe hits tree
+5B Axe breaks
+5C Close hole with feet
+5D Close hole with feet
+5E Idle
+5F Fall in hole
+60 Player in hole
+61 Flip out of hole
+62 Freeze
+63 Freeze
+64 Freeze
+65 Freeze
+66 Freeze
+67 Freeze
+68 Freeze
+69 Freeze
+6A Moves player a bit backwards
+6B Shakes tree
+6C Water the ground
+6D Idle
+6E Idle
+6F Sliding
+70 Swing net
+71 Caught insect in net
+72 Puts away insect
+73 Drops item
+74 Gives item
+75 Player vanishes
+76 Open the weather station
+77 Put away item (Freeze)
+78 Freeze
+79 Sit down (Teleports)
+7A Sit down (Teleports)
+7B Sit down (Teleports)
+7C Sit down
+7D Stands up (Teleports)
+7E Falls in hole after standing up (Teleports)
+7F Sit down and can't stand up
+80 Lay down (Teleports)
+81 Lay down (Teleports)
+82 Lay down
+83 Rolling while laying (Teleports)
+84 Rolling while laying (Teleports)
+85 Lay down and can't roll
+86 Stands up after laying
+87 Stands up after laying and falls in hole (Teleports)
+88 Puts out umbrella
+89 Puts away umbrella
+8A Spins umbrella
+8B Open the mail box (Teleports)
+8C Close the mail box (Teleports)
+8D Popps party popper
+8E Idle
+8F Uses bubble wand
+90 Uses dandelion puff
+91 Uses dandelion puff
+92 Show off Item
+93 Eat Item
+94 Eat Item
+95 Freeze
+96 Freeze
+97 Freeze
+98 Uses megaphone
+99 Uses megaphone with no answer
+9A Uses toy hammer
+9B Uses toy hammer with no target
+9C Uses toy hammer with target
+9D Faints
+9E Wake up from faint
+9F Fall down
+A0 Uses slingshot (spans)
+A1 Uses slingshot (shoots)
+A2 Uses slingshot (shoots)(Freeze)
+A3 Turns player
+A4 Freeze
+A5 Sting by bee
+A6 Sting by mosquito
+A7 Sparkle (Clears bee sting)
+A8 Idle
+A9 Sit down (Teleports)
+AA Sit down
+AB Stands up after sitting (Teleports)
+AC Stands up after sitting and falls in hole(Teleports)
+AD Tries to stand up
+AE Sit down (Teleports)
+AF Freeze
+B0 Uses fishing rod with water
+B1 Uses fishing rod with no water
+B2 Turns player
+B3 Player falls down (Fishing rod breaks probably)(Freeze)
+B4 Fishes fish (Freeze)
+B5 Player falls down (Fishing rod breaks probably)(Freeze)
+B6 Retract fishing rod
+B7 Caught fish (Freeze)
+B8 Hold on something
+B9 Hair vanishes
+BA Sit down
+BB Sit down at Kappns boat (Locks Camera)(Teleports)(Freeze)
+BC Sit down at Kappns boat (Locks Camera)(Teleports)(Freeze)
+BD Sit down at Kappns boat (Freeze)
+BE Sit down at Kappns boat (Freeze)
+BF Stand up at Kappns boat (Teleports)
+C0 Cursed by Jack
+C1 Teleports
+C2 Blow something (Freeze)
+C3 Drinks fizzy apple juice
+C4 Freeze
+C5 Freeze 
+C6 Wish something
+C7 Idle
+C8 Sit down
+C9 Sit down
+CA Sleeping in water (Idle)
+CB Starts schnick schnack schnuck game
+CC Finishes schink schnack schnuck game
+CD Head shake
+CE Throws Beans
+CF Eats Item
+D0 Uses Tweeter
+D1 Freeze
+D2 Freeze 
+D3 Freeze 
+D4 Freeze
+D5 Freeze
+D6 Gets bigger from mushroom (Freeze)
+D7 Freeze
+D8 Freeze
+D9 Freeze
+DA Freeze
+DB Freeze
+DC Hello Animation
+DE Opens mail box (Teleports)
+DF Closes mail box (Teleports)
+E0 Text box (You can now save your progress..)
+E1 Hold something (Teleports)(Freeze)
+E2 Puts down town tree (Teleports)
+E3 Freeze
+E4 Freeze
+E5 Freeze (Teleports)
+E6 Freeze
+E7 Greets someone
+E8 Freeze
+E9 Jumps at campfire
+EA Freeze
+EB Crash
+EC Crash
+ED Crash
+EE Crash
+EF Crash
+F0 Crash
+F1 Crash
+F2 Crash
+F3 Crash
+F4 Crash
+F5 Crash
+F6 Crash
+F7 Crash
+F8 Crash
+F9 Crash
+FA Crash
+FB Crash
+FC Crash
+FD Crash
+FE Crash
+FF Crash
