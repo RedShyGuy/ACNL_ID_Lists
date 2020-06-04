@@ -1,6 +1,7 @@
 # Animal Crossing New Leaf ID's
 
 ## [Item ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/All_ACNL_Items.txt)
+## [Item Flags](https://drive.google.com/file/d/1eavI3e6sWnDMu3CWAKo0Djp0cwPlAsI1/view)
 ## [Building ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Building_IDs.txt)
 ## [Animation ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/Animation_IDs.txt)
 ## [Emotion ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Emotion_IDs.txt)
