@@ -1,12 +1,19 @@
 # Animal Crossing New Leaf ID's
 
-## [Item ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/All_ACNL_Items.txt)
-## [Item Flags](https://drive.google.com/file/d/1eavI3e6sWnDMu3CWAKo0Djp0cwPlAsI1/view)
-## [Building ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Building_IDs.txt)
-## [Animation ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/Animation_IDs.txt)
-## [Emotion ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Emotion_IDs.txt)
-## [Particle ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Particle_IDs(1).txt)
-## [Country ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Region_IDs.txt)
-## [Hairstyle ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/HairStyles.jpg)
-## [Room ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/Room_IDS.txt)
-## [Snake ID'S](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/SNAKEIDNAME.txt)
+# Item
+> ## [Item ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/All_ACNL_Items.txt)
+> ## [Item Flags](https://drive.google.com/file/d/1eavI3e6sWnDMu3CWAKo0Djp0cwPlAsI1/view)
+
+# Animation
+> ## [Animation ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/Animation_IDs.txt)
+> ## [Emotion ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Emotion_IDs.txt)
+> ## [Snake ID'S](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/SNAKEIDNAME.txt)
+
+# Appearance
+> ## [Hairstyle ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/HairStyles.jpg)
+
+# Other
+> ## [Building ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Building_IDs.txt)
+> ## [Particle ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Particle_IDs(1).txt)
+> ## [Country ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Region_IDs.txt)
+> ## [Room ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/Room_IDS.txt)
