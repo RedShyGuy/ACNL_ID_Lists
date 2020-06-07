@@ -9,7 +9,7 @@
 
 # Appearance
 ## - [Hairstyle ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/HairStyles.jpg)
-## - [Eyestyle ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/Slide1.jpg)
+## - [Eyestyle ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/Face_Sytles.jpg)
 
 # Other
 ## - [Building ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Building_IDs.txt)
