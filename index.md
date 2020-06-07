@@ -7,5 +7,6 @@
 ## [Emotion ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Emotion_IDs.txt)
 ## [Particle ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Particle_IDs(1).txt)
 ## [Country ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Region_IDs.txt)
+## [Hairstyle ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/HairStyles.jpg)
 ## [Room ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/Room_IDS.txt)
 ## [Snake ID'S](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/SNAKEIDNAME.txt)
