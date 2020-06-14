@@ -11,6 +11,7 @@
 
 # Appearance
 ## - [Hairstyle ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/HairStyles.jpg)
+## - [Haircolor ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/haircolorID.jpg)
 ## - [Eyestyle ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/Face_Sytles.jpg)
 ## - [Eyecolor ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/eyecolorID.jpg)
 
