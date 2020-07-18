@@ -146,9 +146,9 @@
 92 Show off Item
 93 Eat Item
 94 Eat Item
-95 Freeze
-96 Freeze
-97 Freeze
+95 Open Drawer
+96 Open Drawer
+97 Close Drawer
 98 Uses megaphone
 99 Uses megaphone with no answer
 9A Uses toy hammer
@@ -218,6 +218,7 @@ D9 Freeze
 DA Freeze
 DB Freeze
 DC Hello Animation
+DD Both Arms Up
 DE Opens mail box (Teleports)
 DF Closes mail box (Teleports)
 E0 Text box (You can now save your progress..)
@@ -230,7 +231,7 @@ E6 Freeze
 E7 Greets someone
 E8 Freeze
 E9 Jumps at campfire
-EA Freeze
+EA Thinking Indoors
 EB Crash
 EC Crash
 ED Crash
