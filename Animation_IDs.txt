@@ -20,9 +20,9 @@
 14 Freeze
 15 Player circling around
 16 Thinking (Inventory)
-17 Freeze
+17 Poof Away In Room Editor
 18 Player vanishes
-19 Freeze
+19 Poof Back In Room Editor
 1A Freeze
 1B Pockets too full to put away equipment
 1C Jumping (in water)
@@ -51,10 +51,10 @@
 33 Player vanishes
 34 Player blinks up
 35 Player blinks up
-36 Freeze
-37 Freeze
+36 Sparkle (Change outfit)
+37 Sparkle (Change outfit)
 38 Equip item
-39 Sparkle (Change outfit)
+39 Sparkle (Get Santa Bag)
 3A Unequip item
 3B Unequip item (Freeze)
 3C Idle
@@ -64,7 +64,7 @@
 40 Pluck weed
 41 Crash
 42 Crash
-43 Freeze
+43 Pick up indoors
 44 Freeze
 45 Close door (Freeze)
 46 Freeze
@@ -95,14 +95,14 @@
 5F Fall in hole
 60 Player in hole
 61 Flip out of hole
-62 Freeze
+62 Move Furniture
 63 Freeze
 64 Freeze
-65 Freeze
-66 Freeze
-67 Freeze
-68 Freeze
-69 Freeze
+65 Move Furniture
+66 Move Furniture With No Place
+67 Move Furniture
+68 Slide Furniture
+69 Light Up Lamp on Wall
 6A Moves player a bit backwards
 6B Shakes tree
 6C Water the ground
@@ -117,7 +117,7 @@
 75 Player vanishes
 76 Open the weather station
 77 Put away item (Freeze)
-78 Freeze
+78 Put away item indoors (Freeze)
 79 Sit down (Teleports)
 7A Sit down (Teleports)
 7B Sit down (Teleports)
