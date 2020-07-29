@@ -79,8 +79,8 @@
 4F Crash
 50 Crash
 51 Put item to pocket (Crash)
-52 Crash
-53 Crash
+52 Bury Item
+53 Bury Item
 54 Text Box (Should I bury this for now?)
 55 Axe hits nothing
 56 Idle
@@ -232,24 +232,3 @@ E7 Greets someone
 E8 Freeze
 E9 Jumps at campfire
 EA Thinking Indoors
-EB Crash
-EC Crash
-ED Crash
-EE Crash
-EF Crash
-F0 Crash
-F1 Crash
-F2 Crash
-F3 Crash
-F4 Crash
-F5 Crash
-F6 Crash
-F7 Crash
-F8 Crash
-F9 Crash
-FA Crash
-FB Crash
-FC Crash
-FD Crash
-FE Crash
-FF Crash
