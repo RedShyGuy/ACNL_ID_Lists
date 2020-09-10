@@ -1,188 +1,224 @@
-004C	Modern Police Station
-004D	Classic Police Station
-004E	Cafe
-004F	Reset Center
-00A8	Yellow Bench
-00A9	Blue Bench
-00AA	Wood Bench
-00AB	Metal Bench
-00AC	Log Bench
-00AD	Modern Bench
-00AE	Fairy-Tale Bench
-00AF	Zen Bench
-00B0	Flower Bed
-00B1	Water Fountain
-00B2	Instrument Shelter
-00B3	Sandbox
-00B4	Garbage Can
-00B5	Pile of Pipes
-00B6	Water Well
-00B7	Fountain
-00B8	Tire Toy
-00B9	Jungle Gym
-00BA	Park Clock
-00BB	Modern Clock
-00BC	Fairy-Tale Clock
-00BD	Zen Clock
-00BE	Street Lamp
-00BF	Round Streetlight
-00C0	Streetlight
-00C1	Modern Streetlight
-00C2	Fairy-Tale Streetlight
-00C3	Zen Streetlight
-00C4	Balloon Arch
-00C5	Flower Arch
-00C6	Campsite
-00C7	Picnic Blanket
-00C8	Hammock
-00C9	Fire Pit
-00CA	Camping Cot
-00CB	Outdoor Chair
-00CC	Torch
-00CD	Zen Garden
-00CE	Hot Spring
-00CF	Geyser
-00D0	Statue Fountain
-00D1	Stone Tablet
-00D2	Water Pump
-00D3	Wisteria Trellis
-00D4	Bell
-00D5	Zen Bell
-00D6	Scarecrow
-00D7	Race of Rice
-00D8	Fence
-00D9	Bus Stop
-00DA	Fire Hydrant
-00DB	Traffic Signal
-00DC	Custom-Design Sign
-00DD	Face-Cutout Standee
-00DE	Caution Sign
-00DF	Do-Not-Enter Sign
-00E0	Yield Sign
-00E1	Cube Sculpture
-00E2	Archway Sculpture
-00E3	Chair Sculpture
-00E4	Illuminated Heart
-00E5	Illuminated Arch
-00E6	Illuminated Clock
-00E7	Illuminated Tree
-00E8	Stadium Light
-00E9	Video Screen
-00EA	Drilling Rig
-00EB	Parabolic Antenna
-00EC	Solar Panels
-00ED	Wind Turbine
-00EE	Windmill
-00EF	Lighthouse
-00F0	Tower
-00F1	Stonehenge
-00F2	Totem Pole
-00F3	Moai Statue
-00F4	Pyramid
-00F5	Sphinx
-00F6	Circle Topiary
-00F7	Square Topiary
-00F8	Tulip Topiary
-00F9	Flower Clock
-0090	cobblestone bridge (N-S)
-0091	cobblestone bridge (SW-NE)
-0092	cobblestone bridge (NW-SE)
-0093	cobblestone bridge (W-E)
-0094	suspension bridge (N-S)
-0095	suspension bridge (SW-NE)
-0096	suspension bridge (NW-SE)
-0097	suspension bridge (W-E)
-0098	brick bridge (N-S)
-0099	brick bridge (SW-NE)
-009A	brick bridge (NW-SE)
-009B	brick bridge (W-E)
-009C	modern bridge (N-S)
-009D	modern bridge (SW-NE)
-009E	modern bridge (NW-SE)
-009F	modern bridge (W-E)
-00A0	zen bridge (N-S)
-00A1	zen bridge (SW-NE)
-00A2	zen bridge (NW-SE)
-00A3	zen bridge (W-E)
-00A4	fairy tale bridge (N-S)
-00A5	fairy tale bridge (SW-NE)
-00A6	fairy tale bridge (NW-SE)
-00A7	fairy tale bridge (W-E)
-0000	Player 1 House
-0001	Player 2 House
-0002	Player 3 House
-0003	Player 4 House
-0004	Mailbox Only (Player 1)
-0005	Mailbox Only (Player 2)
-0006	Mailbox Only (Player 3)
-0007	Mailbox Only (Player 4)
-0008	Villager 1
-0009	Villager 2
-000A	Villager 3
-000B	Villager 4
-000C	Villager 5
-000D	Villager 6
-000E	Villager 7
-000F	Villager 8
-0010	Villager 9
-0011	Villager 10
-0050	classic town hall
-0051	zen town hall
-0052	fairy-tale town hall
-0053	modern town hall
-0054	classic train station
-0055	zen train station
-0056	fairy-tale train station
-0057	modern train station
-0058	recycle shop
-0059	town plaza
-005A	railroad crossing arms
-005B	bulletin board
-005C	island storage bin
-005D	dock
-005E	Katrina's Tent
-005F	Camper's Tent
-0060	Redd's Tent
-0061	Chip's Tent
-0062	Nat's Tent
-0063	Franklin's Table
-0064	Pavé's Dance Stage
-0065	Countdown Board
-0066	Redd's Stand
-0067	Dream World Bed
-006B	New Years Day face cutout standee
-006C	??? face cutout standee (6C)
-006D	??? face cutout standee (6D)
-006E	Groundhog Day face cutout standee
-006F	Bean day? face cutout standee
-0070	??? face cutout standee (70)
-0071	Empty?
-0072	St. Patrick's Day face cutout standee
-0073	??? face cutout standee (73)
-0074	Earth Day face cutout standee
-0075	Carp Banner? face cutout standee
-0076	??? face cutout standee (76)
-0077	Flowers face cutout standee
-0078	??? face cutout standee (78)
-0079	??? face cutout standee (79)
-007A	Labor Day face cutout standee
-007B	??? face cutout standee (7B)
-007C	??? face cutout standee (7C)
-007D	Explorer's Day face cutout standee
-007E	Toy Day? face cutout standee
-007F	??? face cutout standee (7F)
-0080	Dream Suite door
-0081	Main Street door? (81)
-0082	Main Street door? (82)
-0083	Nookling Junction door
-0084	Museum donation board
-0085	Garden Shop door
-0086	Main Street door? (86)
-0087	Able Sisters door
-0088	Labelle's door
-0089	Nook's Homes door
-008A	Post Office door
-008D	Photo Booth
-008E	Main Street lamp
-008F	Main Street bench (facing right)
-00FC	(None)
+Player/Villager Buildings
+------------------
+00 Player 1 House
+01 Player 2 House
+02 Player 3 House
+03 Player 4 House
+04 Player 1 Mailbox 
+05 Player 2 Mailbox 
+06 Player 3 Mailbox 
+07 Player 4 Mailbox 
+08 Villager 1 House
+09 Villager 2 House
+0A Villager 3 House
+0B Villager 4 House
+0C Villager 5 House
+0D Villager 6 House
+0E Villager 7 House
+0F Villager 8 House
+10 Villager 9 House
+11 Villager 10 House
+
+Special PWP's
+------------------
+4C Modern Police Station
+4D Classic Police Station
+4E Cafe
+4F Reset Center
+50 Classic Town Hall
+51 Zen Town Hall
+52 Fairy-Tale Town Hall
+53 Modern Town Hall
+54 Classic Train Station
+55 Zen Train Station
+56 Fairy-Tale Train Station
+57 Modern Train Station
+58 Recycle Shop
+59 Town Plaza
+5A Railroad Crossing Arms
+5B Bulletin Board
+5C Island Storage Bin
+5D Kappn's Boat
+5E Katrina's Tent
+5F Camper's Tent
+60 Redd's Tent
+61 Chip's Tent
+62 Nat's Tent
+63 Franklin's Table
+64 Pavé's Dance Stage
+65 Countdown Board
+66 Redd's Stand
+67 Dream World Bed
+68 Dock
+
+Island Buildings
+------------------
+69 Island Hut
+6A Lloid
+
+Face Cutout Standees
+------------------
+6B Face Cutout Standee: New Years Day 
+6C Face Cutout Standee: Lunar New Year
+6D Face Cutout Standee: Great Full Moon
+6E Face Cutout Standee: Groundhog Day 
+6F Face Cutout Standee: Bean Day
+70 Face Cutout Standee: Girl's Festival
+71 Face Cutout Standee: Shamrock Day
+72 Face Cutout Standee: Arbor Day
+73 Face Cutout Standee: Nature Day
+74 Face Cutout Standee: Boy's Festival
+75 Face Cutout Standee: Teachers' Day
+76 Face Cutout Standee: Summer Solstice
+77 Face Cutout Standee: Starcrossed Day
+78 Face Cutout Standee: Obon
+79 Face Cutout Standee: Labor Day
+7A Face Cutout Standee: Autumn Moon (Japan and Korean)
+7B Face Cutout Standee: Autumn Moon (America and Europe)
+7C Face Cutout Standee: Explorer's Day
+7D Face Cutout Standee: Naughty-or-Nice Day
+7E Face Cutout Standee: Winter Solstice
+
+Camping Car's
+------------------
+7F Camping Car 1
+80 Camping Car 2
+
+Mainstreet Buildings (Only Visible On The Mainstreet)
+------------------
+81 Fortune Shop
+82 Dream Suite
+83 Club LOL
+84 Museum
+85 Nookling General Stores
+86 Gardening Store
+87 Kicks
+88 Shampoodle
+89 Able Sisters (Mabel and Sable Part)
+8A Able Sisters (Labelle Part)
+8B Nook's Homes
+8C Post Office
+8D Photo Booth
+8E Main Street lamp
+8F Main Street Bench
+
+Bridges
+------------------
+90 Cobblestone Bridge (N-S)
+91 Cobblestone Bridge (SW-NE)
+92 Cobblestone Bridge (NW-SE)
+93 Cobblestone Bridge (W-E)
+94 Suspension Bridge (N-S)
+95 Suspension Bridge (SW-NE)
+96 Suspension Bridge (NW-SE)
+97 Suspension Bridge (W-E)
+98 Brick Bridge (N-S)
+99 Brick Bridge (SW-NE)
+9A Brick Bridge (NW-SE)
+9B Brick Bridge (W-E)
+9C Modern Bridge (N-S)
+9D Modern Bridge (SW-NE)
+9E Modern Bridge (NW-SE)
+9F Modern Bridge (W-E)
+A0 Zen Bridge (N-S)
+A1 Zen Bridge (SW-NE)
+A2 Zen Bridge (NW-SE)
+A3 Zen Bridge (W-E)
+A4 Fairy Tale Bridge (N-S)
+A5 Fairy Tale Bridge (SW-NE)
+A6 Fairy Tale Bridge (NW-SE)
+A7 Fairy Tale Bridge (W-E)
+
+PWP's
+------------------
+A8 Yellow Bench
+A9 Blue Bench
+AA Wood Bench
+AB Metal Bench
+AC Log Bench
+AD Modern Bench
+AE Fairy-Tale Bench
+AF Zen Bench
+B0 Flower Bed
+B1 Water Fountain
+B2 Instrument Shelter
+B3 Sandbox
+B4 Garbage Can
+B5 Pile of Pipes
+B6 Water Well
+B7 Fountain
+B8 Tire Toy
+B9 Jungle Gym
+BA Park Clock
+BB Modern Clock
+BC Fairy-Tale Clock
+BD Street Lamp
+BE Street Lamp
+BF Round Streetlight
+C0 Streetlight
+C1 Modern Streetlight
+C2 Fairy-Tale Streetlight
+C3 Zen Streetlight
+C4 Balloon Arch
+C5 Flower Arch
+C6 Campsite
+C7 Picnic Blanket
+C8 Hammock
+C9 Fire Pit
+CA Camping Cot
+CB Outdoor Chair
+CC Torch
+CD Zen Garden
+CE Hot Spring
+CF Geyser
+D0 Statue Fountain
+D1 Stone Tablet
+D2 Water Pump
+D3 Wisteria Trellis
+D4 Bell
+D5 Zen Bell
+D6 Scarecrow
+D7 Race of Rice
+D8 Fence
+D9 Bus Stop
+DA Fire Hydrant
+DB Traffic Signal
+DC Custom-Design Sign
+DD Face-Cutout Standee
+DE Caution Sign
+DF Do-Not-Enter Sign
+E0 Yield Sign
+E1 Cube Sculpture
+E2 Archway Sculpture
+E3 Chair Sculpture
+E4 Illuminated Heart
+E5 Illuminated Arch
+E6 Illuminated Clock
+E7 Illuminated Tree
+E8 Stadium Light
+E9 Video Screen
+EA Drilling Rig
+EB Parabolic Antenna
+EC Solar Panels
+ED Wind Turbine
+EE Windmill
+EF Lighthouse
+F0 Tower
+F1 Stonehenge
+F2 Totem Pole
+F3 Moai Statue
+F4 Pyramid
+F5 Sphinx
+F6 Circle Topiary
+F7 Square Topiary
+F8 Tulip Topiary
+F9 Flower Clock
+
+Campground Fence Lock
+------------------
+FA Campground Fence Lock 1
+FB Campground Fence Lock 2
+
+Empty Space
+------------------
+FC Empty Space
