@@ -19,6 +19,19 @@ Player/Villager Buildings
 10 Villager 9 House
 11 Villager 10 House
 
+Invalid Villager Buildings
+------------------
+42 Invalid Villager 1 House
+43 Invalid Villager 2 House
+44 Invalid Villager 3 House
+45 Invalid Villager 4 House
+46 Invalid Villager 5 House
+47 Invalid Villager 6 House
+48 Invalid Villager 7 House
+49 Invalid Villager 8 House
+4A Invalid Villager 9 House
+4B Invalid Villager 10 House
+
 Special PWP's
 ------------------
 4C Modern Police Station
