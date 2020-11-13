@@ -39,7 +39,7 @@
 27 While jellyfish sting
 28 After jellyfish sting
 29 Empty text box
-2A Freeze
+2A Reload Menu
 2B Player vanishes
 2C Player vanishes
 2D Player vanishes
@@ -62,8 +62,8 @@
 3E Pick up item (Can't pickup so inv opens)
 3F Pick up item (Can't pickup so inv opens)
 40 Pluck weed
-41 Crash
-42 Crash
+41 Found four-leaf clover
+42 Put item to pocket
 43 Pick up indoors
 44 Freeze
 45 Close door (Freeze)
@@ -75,9 +75,9 @@
 4B Shovel hits nothing
 4C Shovel hits something strong 
 4D Shovel hits something strong 
-4E Shovel unknown 
-4F Crash
-50 Crash
+4E Shovel swing
+4F Shovel dig
+50 Shovel dig out item
 51 Put item to pocket (Crash)
 52 Bury Item
 53 Bury Item
