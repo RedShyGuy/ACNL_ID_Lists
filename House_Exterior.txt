@@ -1,0 +1,183 @@
+House Size
+------------------
+00 Starting Tent 
+01 House Creation
+02 House Expansion 1
+03 House Expansion 2
+04 Second Floor Addition
+05 Right Floor Addition
+06 Left Floor Addition
+07 Right & Left Floor Addition
+
+House Style
+------------------
+00 mansion
+01 zen castle
+02 castle
+03 modern house
+
+House Brick
+------------------
+00 brick exterior
+01 exotic exterior
+02 cobblestone exterior
+03 astro exterior
+04 kiddie exterior
+05 simple exterior
+06 cabana exterior
+07 zen exterior
+08 fairy-tale exterior
+09 cabin exterior
+0A shanty exterior
+0B concrete exterior
+0C sweets exterior
+0D white-brick exterior
+0E chalet exterior
+0F brown-brick exterior
+10 mermaid exterior
+11 red-barn exterior
+12 blue chalet exterior
+13 pink exterior
+14 blue exterior
+15 orange exterior
+16 garden exterior
+17 yellow exterior
+18 white exterior
+19 stucco exterior
+1A stone exterior
+1B melon exterior
+1C earthy exterior
+1D fancy exterior
+1E black exterior
+1F golden exterior
+
+House Roof
+------------------
+00 red roof
+01 green-tile roof
+02 blue-shingle roof
+03 astro roof
+04 kiddie roof
+05 black modern roof
+06 straw-thatched roof
+07 black-tile roof
+08 fairy-tale roof
+09 ranch roof
+0A shanty roof
+0B concrete roof
+0C sweets roof
+0D white roof
+0E purple-shingle roof
+0F black-straw roof
+10 mermaid roof
+11 simple blue roof
+12 purple roof
+13 pink roof
+14 black roof
+15 yellow roof
+16 fuchsia roof
+17 black-shingle roof
+18 brown roof
+19 grass roof
+1A stone roof
+1B mint fairy-tale roof
+1C uneven stone roof
+1D simple green roof
+1E simple gray roof
+1F golden roof
+20 blue roof
+21 yellow roof
+22 green roof
+
+House Door Shape
+------------------
+00 arched
+01 square
+
+House Door Style
+------------------
+00 basic door
+01 fish door
+02 astro door
+03 classic door
+04 yellow door
+05 metal door
+06 patched door
+07 sweets door
+08 mermaid door
+09 zen door
+0A cabin door
+0B fairy-tale door
+0C brown door
+0D green door
+0E heavy door
+0F blue door
+10 beige door
+11 imperial door
+12 pink door
+13 kiddie door
+14 bamboo door
+15 golden door
+
+House fence
+------------------
+00 rope fence
+01 picket fence
+02 country fence
+03 hedge 
+04 pink mermaid fence 
+05 blue mermaid fence
+06 red-brick fence
+07 gray-brick fence
+08 pink fence
+09 fairy-tale fence
+0A corral fence
+0B curvy fence
+0C blue fence
+0D fancy fence
+0E zen fence
+0F barbed-wire fence
+10 sweets fence
+11 concrete fence
+12 shanty fence
+13 bamboo fence
+14 sculpted hedge 
+15 cinder-block wall
+16 golden fence
+
+House Pavement
+------------------
+00 colorful gravel 
+01 stone pavement
+02 brick pavement
+03 pebble pavement
+04 square pavement
+05 concrete pavement
+06 blue-brick pavement
+07 pink pavement
+08 brown pavement
+
+House Mailbox
+------------------
+00 red mailbox
+01 metal mailbox
+02 blue mailbox
+03 yellow mailbox
+04 orange mailbox
+05 green mailbox
+06 golden mailbox
+07 wooden mailbox
+08 white mailbox
+09 pink mailbox
+0A zen mailbox
+0B shabby mailbox
+0C stainless mailbox
+0D square mailbox
+0E light-blue mailbox
+0F cyan mailbox
+10 mermaid mailbox
+11 cabana  mailbox
+12 fairy-tale mailbox
+13 royal mailbox
+14 barrel mailbox
+15 sweets mailbox
