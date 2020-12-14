@@ -51,8 +51,8 @@ Value       Room                                               Place            
 2F      Fishing Tourney Ceremony                              Cutscene              FishAwardTentDemo
 30      Police Station (Copper)                               Indoor                PoliceBoxA
 31      Police Station (Booker)                               Indoor                PoliceBoxB
-32      The Roost Café                                        Indoor                Cafe
-33      Working In The Roost Café                         Sequence & Indoor         CafeArbeit
+32      The Roost CafÃ©                                        Indoor                Cafe
+33      Working In The Roost CafÃ©                             Sequence & Indoor     CafeArbeit
 34      Reset Centre                                          Indoor                ResetMonitoringCenter
 35      Redd's Tent                                           Indoor                Gallery
 36      Katrina's Tent                                        Indoor                FortuneTent
@@ -94,66 +94,66 @@ Value       Room                                               Place            
 5A      Post Office                                           Indoor                PostOffice
 5B      Dream Suite                                           Indoor                Dream
 5C      Photo Booth                                           Indoor                PhotoBox
-5D      Game's Initial Setup Train Ride                    Sequence & Indoor        Train
-5E      Title Screen                                      Sequence & Outdoor        Title
+5D      Game's Initial Setup Train Ride                       Sequence & Indoor     Train
+5E      Title Screen                                          Sequence & Outdoor    Title
 5F      !st arrival at train station (start of game)          Cutscene              VillagePrologue
 60      Saving Screen                                         Cutscene              Save
 61      After Save & Quit (Black Screen -> Title Screen)      Cutscene              Load
 62      Black Screen                                          Cutscene              Format
-63      Isabelle Spotlight/ Load Town Area                Sequence & Indoor         PlayerSelect
+63      Isabelle Spotlight/ Load Town Area                    Sequence & Indoor     PlayerSelect
 64      Coming Back From A Dream (Dream Suite Bed)            Cutscene              DreamReturn
 65      On Kappn's Boat Going To The Island                   Cutscene              SeaDeparture
 66      On Kappn's Boat Leaving The Island                    Cutscene              SeaReturn
 67      Island Shack                                          Indoor                TourDesk
 68      Island                                                Outdoor               LobbyIsland
-69      Tour - Hide n' Seek                                   Outdoor               Island_HideAndSeek
-6A      Tour - Hide n' Seek - (Results)                       Cutscene              Island_HideAndSeekResult
-6B      Tour - Flower Picking                                 Outdoor               Island_FlowerPicking
-6C      Tour - Flower Picking (Results)                       Cutscene              Island_FlowerPickingResult
-6D      Island Tour - Fishing                                 Outdoor               Island_Fishing
-6E      Island Tour - Fishing (Results)                       Cutscene              Island_FishingResult
+69      Tour - Hide and Seek                                  Outdoor               Island_HideAndSeek
+6A      Tour - Hide and Seek (Results)                        Cutscene              Island_HideAndSeekResult
+6B      Tour - Gardening Tour                                 Outdoor               Island_FlowerPicking
+6C      Tour - Gardening Tour (Results)                       Cutscene              Island_FlowerPickingResult
+6D      Tour - Fishing                                        Outdoor               Island_Fishing
+6E      Tour - Fishing (Results)                              Cutscene              Island_FishingResult
 6F      Tour - Bug Catching                                   Outdoor               Island_InsectCatching
 70      Tour - Bug Catching (Results)                         Cutscene              Island_InsectCatchingResult
-71      Tour - Balloon Popping                                Outdoor               Island_Balloon
-72      Tour - Balloon Popping (Results)                      Cutscene              Island_BalloonResult
-73                                                            Outdoor               Island_TreasureHunt
-74                                                            Cutscene              Island_TreasureHuntResult
-75                                                            Outdoor               Island_PikoHan
-76                                                            Cutscene              Island_PikoHanResult
-77      Island Tour - Labyrinth                               Outdoor               Island_Maze
-78      Island Tour - Labyrinth - End Results                 Cutscene              Island_MazeResult
-79                                                            Outdoor               Island_Mining
-7A                                                            Cutscene              Island_MiningResult
-7B                                                            Outdoor               Island_FossilDig
-7C                                                            Cutscene              Island_FossilDigResult
-7D                                                            Outdoor               Island_Diving
-7E                                                            Cutscene              Island_DivingResult
-7F                                                            Outdoor               Island_BorrowingRace
-80                                                            Cutscene              Island_BorrowingRaceResult
-81                                                                                  Island_Hut0
-82                                                                                  Island_Hut1
-83                                                                                  Island_Hut2
-84                                                                                  Island_Hut3
-85                                                                                  Island_Hut4
-86                                                                                  Island_Hut5
-87                                                                                  Island_Hut6
-88                                                                                  Island_Hut7
-89                                                                                  Island_Hut8
-8A                                                                                  Island_Hut9
-8B                                                                                  RandomMatchingEntry
-8C                                                                                  RandomMatchingRetire
-8D                                                                                  PrepareTour
-8E                                                                                  Exhibition_Entrance
-8F                                                                                  Exhibition_North
-90                                                                                  Exhibition_East
-91                                                                                  Exhibition_West
-92                                                                                  ModelHouse_1F
-93                                                                                  ModelHouse_2F
-94                                                                                  ModelHouse_BF
-95                                                                                  ModelHouse_Right
-96                                                                                  ModelHouse_Left
-97                                                                                  ModelHouse_Back
-98                                                                                  IncludeSave
+71      Tour - Balloon-Hunt                                   Outdoor               Island_Balloon
+72      Tour - Balloon-Hunt (Results)                         Cutscene              Island_BalloonResult
+73      Tour - Scavenger Hunt                                 Outdoor               Island_TreasureHunt
+74      Tour - Scavenger Hunt (Results)                       Cutscene              Island_TreasureHuntResult
+75      Tour - Hammer Tour                                    Outdoor               Island_PikoHan
+76      Tour - Hammer Tour (Results)                          Cutscene              Island_PikoHanResult
+77      Tour - Labyrinth Tours                                Outdoor               Island_Maze
+78      Tour - Labyrinth Tours (Results)                      Cutscene              Island_MazeResult
+79      Tour - Ore Tours                                      Outdoor               Island_Mining
+7A      Tour - Ore Tours (Results)                            Cutscene              Island_MiningResult
+7B      Tour - Fossil Hunter Tours                            Outdoor               Island_FossilDig
+7C      Tour - Fossil Hunter Tours (Results)                  Cutscene              Island_FossilDigResult
+7D      Tour - Diving Tour                                    Outdoor               Island_Diving
+7E      Tour - Diving Tour (Results)                          Cutscene              Island_DivingResult
+7F      Tour - Item-Matching                                  Outdoor               Island_BorrowingRace
+80      Tour - Item-Matching (Results)                        Cutscene              Island_BorrowingRaceResult
+81      Unknown                                               Unknown               Island_Hut0
+82      Unknown                                               Unknown               Island_Hut1
+83      Unknown                                               Unknown               Island_Hut2
+84      Unknown                                               Unknown               Island_Hut3
+85      Unknown                                               Unknown               Island_Hut4
+86      Unknown                                               Unknown               Island_Hut5
+87      Unknown                                               Unknown               Island_Hut6
+88      Unknown                                               Unknown               Island_Hut7
+89      Unknown                                               Unknown               Island_Hut8
+8A      Unknown                                               Unknown               Island_Hut9
+8B      Unknown                                               Unknown               RandomMatchingEntry
+8C      Unknown                                               Unknown               RandomMatchingRetire
+8D      Unknown                                               Unknown               PrepareTour
+8E      Happy Home Showcase Entrance                          Outdoor               Exhibition_Entrance
+8F      Happy Home Showcase North Section                     Outdoor               Exhibition_North
+90      Happy Home Showcase East Section                      Outdoor               Exhibition_East
+91      Happy Home Showcase West Section                      Outdoor               Exhibition_West
+92      Model House Main Room                                 Indoor                ModelHouse_1F
+93      Model House Upstairs                                  Indoor                ModelHouse_2F
+94      Model House Basement                                  Indoor                ModelHouse_BF
+95      Model House Right Room                                Indoor                ModelHouse_Right
+96      Model House Left Room                                 Indoor                ModelHouse_Left
+97      Model House Top Room                                  Indoor                ModelHouse_Back
+98      Unknown                                               Unknown               IncludeSave
 99      Move town to AC:WA version of game                    Sequence              GardenManualImport
 9A      Isabelle on stage, talking about AC:HHD in ACNL       Sequence              TakumiImport
 9B      Isabelle on train, introduction to WA features        Cutscene              GardenPlusUpdate
@@ -166,4 +166,4 @@ A1      Special Character RV                                  Indoor            
 A2      Villager RV                                           Indoor                CampingCarB
 A3      Move Furniture Like AC:HHD Tutorial (w/ Lottie)       Indoor                ChipTutorial
 A4      Amiibo Camera                                         Sequence?             AmiiboCamera
-A5      Default (Invalid) Value
+A5      Default (Invalid) Value                               -                     -
