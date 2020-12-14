@@ -19,6 +19,6 @@
 ## - [House Exterior ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/House_Exterior.txt)
 ## - [Building ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Building_IDs.txt)
 ## - [Particle ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Particle_IDs(1).txt)
-## - [Country ID's](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Region_IDs.txt)
+## - [Country ID's](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin/wiki/Country-ID's)     ([RAW List](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Region_IDs.txt))
 ## - [Room ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/Room_IDS.txt)
 ## - [SYS_2D_UI ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/SYS_2D_UI_ID's.txt)
