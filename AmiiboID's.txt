@@ -1,0 +1,561 @@
+Alligator
+------------------
+02C3 	Alfonso
+02C4 	Alli
+02C5 	Boots
+02C7 	Del
+02CB 	Drago
+02CA 	Gayle
+0290 	Sly
+
+Anteater
+------------------
+0203 	Anabelle
+0208 	Annalisa
+0201 	Antonio
+0200 	Cyrano
+0209 	Olaf
+0202 	Pango
+0206 	Snooty
+
+Bear
+------------------
+0221 	Beardo
+0220 	Charlise
+0217 	Chow
+0216 	Curt
+021D 	Grizzly
+021A 	Groucho
+021F 	Ike
+0222 	Klaus
+0219 	Nate
+021E 	Paula
+0215 	Pinky
+0214 	Teddy
+021B 	Tutu
+021C 	Ursala
+
+Bird
+------------------
+0233 	Admiral
+022F 	Anchovy
+023D 	Jacques
+0238 	Jakey/Jacob
+022D 	Jay
+0231 	Jitters
+023C 	Lucha
+0101 	Medli
+0235 	Midge
+023E 	Peck
+0232 	Piper
+022E 	Robin
+023F 	Sparro
+0230 	Twiggy
+
+Bull
+------------------
+024A 	Angus
+0251 	Coach
+024B 	Rodeo
+024D 	Stu
+024F 	T-Bone
+0252 	Vic
+
+Cat
+------------------
+0270 	Ankha
+025D 	Bob
+026E 	Felicity
+3501 	Felyne
+0266 	Kabuki
+0272 	Katt
+0267 	Kid Cat
+0261 	Kiki
+026B 	Kitty
+026F 	Lolly
+026D 	Merry
+025E 	Mitzi
+0265 	Moe
+0268 	Monique
+0260 	Olivia
+0263 	Punchy
+0264 	Purrl
+025F 	Rosie
+0271 	Rudy
+026A 	Stinky
+0269 	Tabby
+0262 	Tangy
+026C 	Tom
+
+Chicken
+------------------
+029E 	Ava
+02A2 	Becky
+029A 	Benedict
+02A5 	Broffina
+029B 	Egbert
+0299 	Goose
+02A6 	Ken
+02A4 	Knox
+02A3 	Plucky
+
+Cow
+------------------
+02B8 	Naomi
+02B7 	Norma
+02B1 	Patty
+02B2 	Tipper
+
+Cub
+------------------
+028D 	Barold
+027D 	Bluebear
+0287 	Cheri
+028C 	Chester
+028A 	June
+0281 	Kody
+027E 	Maple
+028F 	Marty
+0284 	Murphy
+0286 	Olive
+028B 	Pekoe
+027F 	Poncho
+0280 	Pudge
+0282 	Stitches
+028E 	Tammy
+0283 	Vladimir
+
+Deer
+------------------
+02D7 	Bam
+02DD 	Beau
+02D9 	Bruce
+02E0 	Chelsea
+02DA 	Deirdre
+02DE 	Diana
+02DF 	Erik
+02D6 	Fauna
+02DC 	Fuchsia
+02DB 	Lopez
+02D8 	Zell
+
+Dog
+------------------
+02F4 	Bea
+02FA 	Benjamin
+02ED 	Biskit
+02EE 	Bones
+02EB 	Butch
+02FB 	Cherry
+02F2 	Cookie
+02F1 	Daisy
+02EA 	Goldie
+02EC 	Lucky
+02F8 	Mac
+02F3 	Maddie
+02F9 	Marcel
+02EF 	Portia
+02FC 	Shep
+02F0 	Walker
+
+Duck
+------------------
+0307 	Bill
+030B 	Deena
+030F 	Derwin
+0310 	Drake
+030E 	Freckles
+0316 	Gloria
+0308 	Joey
+0314 	Ketchup
+030A 	Maelle
+030D 	Mallary
+0313 	Miranda
+0317 	Molly
+0309 	Pate
+030C 	Pompom
+0318 	Quillson
+0311 	Scoot
+0312 	Weber
+
+Eagle
+------------------
+044C 	Amelia
+044B 	Apollo
+0450 	Avery
+044E 	Buzz
+0454 	Celia
+0451 	Frank
+0453 	Keaton
+044D 	Pierce
+0452 	Sterling
+
+Elephant
+------------------
+0329 	Axel
+0325 	Big Top
+032E 	Chai
+0324 	Dizzy
+032A 	Ellie
+0326 	Eloise
+0327 	Margie
+0323 	Opal
+0328 	Paolo
+032D 	Tia
+032C 	Tucker
+
+Frog
+------------------
+033B 	Camofrog
+0342 	Cousteau
+0349 	Croque
+034A 	Diva
+033C 	Drift
+033A 	Frobert
+0348 	Gigi
+034B 	Henry
+0343 	Huck
+0345 	Jambette
+033F 	Jeremiah
+0338 	Lily
+0344 	Prince
+033E 	Puddles
+0347 	Raddle
+0339 	Ribbot
+0341 	Tad
+033D 	Wart Jr.
+
+Goat
+------------------
+0358 	Billy
+0356 	Chevre
+035A 	Gruff
+035D 	Kidd
+0357 	Nan
+035E 	Pashmina
+035C 	Velma
+
+Gorilla
+------------------
+0371 	Al
+036B 	Boone
+036E 	Boyd
+0369 	Cesar
+0373 	Hans
+036D 	Louie
+036A 	Peewee
+0374 	Rilla
+0372 	Rocket
+0370 	Violet
+
+Hamster
+------------------
+037F 	Apple
+0383 	Clay
+0384 	Flurry
+0380 	Graham
+037E 	Hamlet
+0385 	Hamphrey
+0386 	Holden
+0381 	Rodney
+0382 	Soleil
+
+Hippo
+------------------
+0393 	Bertha
+0394 	Biff
+0395 	Bitty
+0392 	Bubbles
+0398 	Harry
+0399 	Hippeux
+0390 	Rocco
+
+Horse
+------------------
+03AD 	Annalise
+03A4 	Buck
+03AB 	Cleo
+03AE 	Clyde
+03AF 	Colton
+03AA 	Ed
+03A7 	Elmer
+0100 	Epona
+03B2 	Filly
+03B1 	Julian
+03B0 	Papi
+03AC 	Peaches
+03A8 	Roscoe
+03A6 	Savannah
+03A5 	Victoria
+03A9 	Winnie
+
+Koala
+------------------
+03BD 	Alice
+03C4 	Canberra
+03C6 	Eugene
+03C0 	Gonzo
+03C5 	Lyman
+03BE 	Melba
+03C1 	Ozzie
+03BF 	Sydney
+03BC 	Yuka
+
+Kangaroo
+------------------
+03D6 	Astrid
+03D3 	Carrie
+03D1 	Kitt
+03DB 	Marcie
+03D2 	Mathilda
+03DA 	Rooney
+03D7 	Sylvia
+03D9 	Walt
+
+Lion
+------------------
+03D6 	Bud
+03E7 	Elvis
+03EA 	Leopold
+03EE 	Lionel
+03EC 	Mott
+03E8 	Rex
+03ED 	Rory
+
+Monkey
+------------------
+0401 	Deli
+03FE 	Elise
+03FF 	Flip
+03FD 	Monty
+03FA 	Nana
+0400 	Shari
+03FB 	Simon
+03FC 	Tammi
+
+Mouse
+------------------
+0416 	Anicotti
+040E 	Bella
+041B 	Bettina
+040F 	Bree
+0418 	Broccolo
+0414 	Candi
+041E 	Chadder
+040C 	Dora
+041C 	Greta
+040D 	Limberg
+041A 	Moose
+041D 	Penelope
+0415 	Rizzo
+0411 	Rod
+0410 	Samson
+
+Octopus
+------------------
+0800 	Inkwell
+042A 	Marina
+0429 	Octavian
+042B 	Zucker
+
+Ostrich
+------------------
+043E 	Blanche
+043C 	Cranston
+043F 	Flora
+0437 	Gladys
+043B 	Julia
+043D 	Phil
+0440 	Phoebe
+0436 	Queenie
+0438 	Sandy
+0439 	Sprocket
+
+Penguin
+------------------
+045F 	Aurora
+0469 	Boomer
+0461 	Cube
+046C 	Flo
+0463 	Friga
+0464 	Gwen
+0462 	Hopper
+046A 	Iggly
+0465 	Puck
+0460 	Roald
+046D 	Sprinkle
+046B 	Tex
+0468 	Wade
+
+Pig
+------------------
+0489 	Agnes
+0481 	Boris
+0486 	Chops
+0480 	Cobb
+0478 	Curly
+047D 	Crackle/Spork
+0485 	Gala
+0102 	Ganon
+047B 	Hugh
+0487 	Kevin
+047C 	Lucy
+0482 	Maggie
+0488 	Pancetti
+0483 	Peggy
+047A 	Rasher
+0479 	Truffles
+
+Rabbit
+------------------
+04A5 	Bonbon
+0494 	Bunnie
+04A4 	Carmen
+04A1 	Chrissy
+049F 	Claude
+0496 	Coco
+04A6 	Cole
+049E 	Doc
+0495 	Dotty
+04A0 	Francine
+0499 	Gabi
+0498 	Gaston
+049C 	Genji
+04A2 	Hopkins
+04A7 	Mira
+04A3 	O'Hare
+049A 	Pippy
+049D 	Ruby
+0497 	Snake
+049B 	Tiffany
+04A8 	Toby
+
+Rhino
+------------------
+04B6 	Hornsby
+04B9 	Merengue
+04BA 	Renée
+04B3 	Rhonda
+04B4 	Spike
+04B2 	Tank
+
+Sheep
+------------------
+04C6 	Baabara
+04C9 	Cashmere
+04CD 	Curlos
+04D3 	Étoile
+04C7 	Eunice
+04D0 	Frita
+04D1 	Muffy
+04D2 	Pietro
+04C8 	Stella
+04CF 	Timbra
+04C5 	Vesta
+04CE 	Wendy
+04CC 	Willow
+
+Squirrel
+------------------
+04E2 	Agent S
+04DE 	Blaire
+04E8 	Cally
+04E3 	Caroline
+0801 	Cece
+04DF 	Filbert
+04EF 	Hazel
+04EE 	Marshal
+04E6 	Mint
+04E1 	Nibbles
+04DD 	Peanut
+04E0 	Pecan
+04EC 	Poppy
+04E7 	Ricky
+04E4 	Sally
+04ED 	Sheldon
+04E5 	Static
+04EB 	Sylvana
+04EA 	Tasha
+0802 	Viché
+
+Tiger
+------------------
+04FD 	Bangle
+0500 	Bianca
+04FF 	Claudia
+04FE 	Leonardo
+04FA 	Rolf
+04FB 	Rowan
+04FC 	Tybalt
+
+Wolf
+------------------
+050B 	Chief
+050F 	Dobie
+0511 	Fang
+0510 	Freya
+0515 	Kyle
+050C 	Lobo
+0514 	Skye
+0513 	Vivian
+050E 	Whitney
+050D 	Wolfgang
+0103 	W. Link
+
+Special Characters
+------------------
+0180 	Villager
+0181 	Isabelle
+0182 	K. K. Slider
+0183 	Tom Nook
+0184 	Timmy&Tommy
+0185 	Timmy
+0186 	Tommy
+0187 	Sable
+0188 	Mable
+0189 	Labelle
+018A 	Reese
+018B 	Cyrus
+018C 	Digby
+018D 	Rover
+018E 	Resetti
+018F 	Don Resetti
+0190 	Brewster
+0191 	Harriet
+0192 	Blathers
+0193 	Celeste
+0194 	Kicks
+0195 	Porter
+0196 	Kapp'n
+0197 	Leilani
+0198 	Lelia
+0199 	Grams
+019A 	Nat
+019B 	Chip
+019C 	Phineas
+019D 	Copper
+019E 	Booker
+019F 	Pete
+01A0 	Pelly
+01A1 	Phyllis
+01A2 	Gulliver
+01A3 	Joan
+01A4 	Pascal
+01A5 	Katrina
+01A6 	Sahara
+01A7 	Wendell
+01A8 	Redd
+01A9 	Gracie
+01AA 	Lyle
+01AB 	Pave
+01AC 	Zipper
+01AD 	Jack
+01AE 	Franklin
+01AF 	Jingle
+01B0 	Tortimer
+01B1 	Dr. Shrunk
+01B3 	Blanca
+01B4 	Leif
+01B5 	Luna
+01B6 	Katie
+01C1 	Lottie
