@@ -22,4 +22,3 @@
 - ### [Country ID's](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin/wiki/Country-ID's)     ([RAW](https://raw.githubusercontent.com/RedShyGuy/redshyguy.github.io/master/Region_IDs.txt))
 - ### [Room ID's](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin/wiki/Room-ID's)     ([RAW](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/Room_IDS.txt))
 - ### [SYS_2D_UI ID's](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/SYS_2D_UI_ID's.txt)
-- ### [Amiibo ID's](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin/wiki/Amiibo-ID's)     ([RAW](https://raw.githubusercontent.com/RedShyGuy/ACNL_ID_Lists/master/AmiiboID's.txt))
