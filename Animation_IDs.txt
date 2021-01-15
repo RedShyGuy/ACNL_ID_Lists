@@ -19,10 +19,10 @@
 13 Freeze
 14 Freeze
 15 Player circling around
-16 Thinking (Inventory)
-17 Poof Away In Room Editor
+16 Thinking (inventory)
+17 Poof Away In Room Editor (freezes outsides)
 18 Player vanishes
-19 Poof Back In Room Editor
+19 Poof Back In Room Editor (freezes outsides)
 1A Freeze
 1B Pockets too full to put away equipment
 1C Jumping (in water)
@@ -51,37 +51,37 @@
 33 Player vanishes
 34 Player blinks up
 35 Player blinks up
-36 Sparkle (Change outfit)
-37 Sparkle (Change outfit)
+36 Sparkle (change outfit)
+37 Freeze
 38 Equip item
-39 Sparkle (Get Santa Bag)
+39 Sparkle (get santa bag)
 3A Unequip item
-3B Unequip item (Freeze)
+3B Unequip item
 3C Idle
 3D Pick up item
-3E Pick up item (Can't pickup so inv opens)
-3F Pick up item (Can't pickup so inv opens)
+3E Put item in inv (will spawn item in inv)
+3F Inv full when picking up (freezes)
 40 Pluck weed
 41 Found four-leaf clover
-42 Put item to pocket
-43 Pick up indoors
-44 Freeze
-45 Close door (Freeze)
+42 Put item to pocket (will spawn item in inv)
+43 Pick up indoors (freezes outsides)
+44 Open door (freeze)
+45 Open door (freeze)
 46 Freeze
 47 Player vanishes
-48 Close door (Freeze)
-49 Shovel hits something
-4A Shovel hits nothing
+48 Close door
+49 Shovel use
+4A Shovel use
 4B Shovel hits nothing
 4C Shovel hits something strong 
 4D Shovel hits something strong 
 4E Shovel swing
 4F Shovel dig
-50 Shovel dig out item
-51 Put item to pocket (Crash)
-52 Bury Item
-53 Bury Item
-54 Text Box (Should I bury this for now?)
+50 Shovel dug out item
+51 Put item to pocket
+52 Bury Item (freeze)
+53 Bury Item (freeze)
+54 Text Box (Should I bury this for now?) (freeze)
 55 Axe hits nothing
 56 Idle
 57 Axe hits nothing
@@ -89,20 +89,20 @@
 59 Axe hits something strong
 5A Axe hits tree
 5B Axe breaks
-5C Close hole with feet
-5D Close hole with feet
+5C Close hole with foot
+5D Close hole with foot
 5E Idle
 5F Fall in hole
 60 Player in hole
 61 Flip out of hole
-62 Move Furniture
+62 Move Furniture (freezes outsides)
 63 Freeze
 64 Freeze
-65 Move Furniture
-66 Move Furniture With No Place
-67 Move Furniture
-68 Slide Furniture
-69 Light Up Lamp on Wall
+65 Move Furniture (freezes outsides)
+66 Move Furniture With No Place (freezes outsides)
+67 Move Furniture (freezes outsides)
+68 Slide Furniture (freezes outsides)
+69 Light Up Lamp on Wall (freezes outsides)
 6A Moves player a bit backwards
 6B Shakes tree
 6C Water the ground
@@ -113,31 +113,31 @@
 71 Caught insect in net
 72 Puts away insect
 73 Drops item
-74 Gives item
-75 Player vanishes
-76 Open the weather station
-77 Put away item (Freeze)
+74 Gives item (freezes)
+75 Gives item (freezes)
+76 Open the weather station (freezes)
+77 Put away item (freezes)
 78 Put away item indoors (Freeze)
-79 Sit down (Teleports)
-7A Sit down (Teleports)
-7B Sit down (Teleports)
+79 Sit down
+7A Sit down
+7B Sit down
 7C Sit down
-7D Stands up (Teleports)
-7E Falls in hole after standing up (Teleports)
+7D Stands up
+7E Falls in hole after standing up
 7F Sit down and can't stand up
-80 Lay down (Teleports)
-81 Lay down (Teleports)
-82 Lay down
-83 Rolling while laying (Teleports)
-84 Rolling while laying (Teleports)
+80 Lay down
+81 Lay down
+82 Freeze
+83 Rolling while laying
+84 Rolling while laying
 85 Lay down and can't roll
 86 Stands up after laying
-87 Stands up after laying and falls in hole (Teleports)
+87 Stands up after laying and falls in hole
 88 Puts out umbrella
 89 Puts away umbrella
 8A Spins umbrella
-8B Open the mail box (Teleports)
-8C Close the mail box (Teleports)
+8B Open the mail box
+8C Close the mail box
 8D Popps party popper
 8E Idle
 8F Uses bubble wand
@@ -161,17 +161,17 @@ A0 Uses slingshot (spans)
 A1 Uses slingshot (shoots)
 A2 Uses slingshot (shoots)(Freeze)
 A3 Turns player
-A4 Freeze
+A4 Turns player
 A5 Sting by bee
 A6 Sting by mosquito
 A7 Sparkle (Clears bee sting)
 A8 Idle
-A9 Sit down (Teleports)
+A9 Sit down 
 AA Sit down
-AB Stands up after sitting (Teleports)
-AC Stands up after sitting and falls in hole(Teleports)
+AB Stands up after sitting
+AC Stands up after sitting and falls in hole
 AD Tries to stand up
-AE Sit down (Teleports)
+AE Sit down 
 AF Freeze
 B0 Uses fishing rod with water
 B1 Uses fishing rod with no water
