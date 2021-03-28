@@ -223,49 +223,56 @@ Outside Flowers:
 00cd rafflesia
 
 Outside Flowers (wilted):
-00ce red tulips (wilted)
-00cf white tulips (wilted)
-00d0 yellow tulips (wilted)
-00d1 pink tulips (wilted)
-00d2 purple tulips (wilted)
-00d3 black tulips (wilted)
-00d4 orange tulips (wilted)
-00d5 white pansies (wilted)
-00d6 yellow pansies (wilted)
-00d7 red pansies (wilted)
-00d8 purple pansies (wilted)
-00d9 orange pansies (wilted)
-00da blue pansies (wilted)
-00db white cosmos (wilted)
-00dc red cosmos (wilted)
-00dd yellow cosmos (wilted)
-00de pink cosmos (wilted)
-00df orange cosmos (wilted)
-00e0 black cosmos (wilted)
-00e1 red roses (wilted)
-00e2 white roses (wilted)
-00e3 yellow roses (wilted)
-00e4 pink roses (wilted)
-00e5 orange roses (wilted)
-00e6 purple roses (wilted)
-00e7 black roses (wilted)
-00e8 blue roses (wilted)
-00e9 gold roses (wilted)
-00ea red carnations (wilted)
-00eb pink carnations (wilted)
-00ec white carnations (wilted)
-00ed white lilies (wilted)
-00ee yellow lilies (wilted)
-00ef red lilies (wilted)
-00f0 orange lilies (wilted)
-00f1 pink lilies (wilted)
-00f2 black lilies (wilted)
-00f3 purple violets (wilted)
-00f4 blue violets (wilted)
-00f5 white violets (wilted)
-00f6 yellow violets (wilted)
-00f7 Jacob's ladder (wilted)
-00f8 rafflesia (wilted)
+00CE red tulips (wilted)
+00CF white tulips (wilted)
+00D0 yellow tulips (wilted)
+00D1 pink tulips (wilted)
+00D2 purple tulips (wilted)
+00D3 black tulips (wilted)
+00D4 orange tulips (wilted)
+00D5 white pansies (wilted)
+00D6 yellow pansies (wilted)
+00D7 red pansies (wilted)
+00D8 purple pansies (wilted)
+00D9 orange pansies (wilted)
+00DA blue pansies (wilted)
+00DB white cosmos (wilted)
+00DC red cosmos (wilted)
+00DD yellow cosmos (wilted)
+00DE pink cosmos (wilted)
+00DF orange cosmos (wilted)
+00E0 black cosmos (wilted)
+00E1 red roses (wilted)
+00E2 white roses (wilted)
+00E3 yellow roses (wilted)
+00E4 pink roses (wilted)
+00E5 orange roses (wilted)
+00E6 purple roses (wilted)
+00E7 black roses (wilted)
+00E8 blue roses (wilted)
+00E9 gold roses (wilted)
+00EA red carnations (wilted)
+00EB pink carnations (wilted)
+00EC white carnations (wilted)
+00ED white lilies (wilted)
+00EE yellow lilies (wilted)
+00EF red lilies (wilted)
+00F0 orange lilies (wilted)
+00F1 pink lilies (wilted)
+00F2 black lilies (wilted)
+00F3 purple violets (wilted)
+00F4 blue violets (wilted)
+00F5 white violets (wilted)
+00F6 yellow violets (wilted)
+00F7 Jacob's ladder (wilted)
+00F8 rafflesia (wilted)
+
+Misc:
+00F9 seed
+00FA broken red flower
+00FB unused bush
+00FC broken jacob's ladder
+00FD broken hole
 
 2000 Mii Mask
 
@@ -379,7 +386,7 @@ Garden (2)
 
 NPC Building's Items:
 2061 Uni-Directional Chair (Invisible)
-2062 Café Dining Chair (Invisible)
+2062 CafÃ© Dining Chair (Invisible)
 2063 Town Hall Chair (Invisible)
 2064 Unknown Two-Seated Chair 1 (Invisible)
 2065 Unknown Two-Seated Chair 2 (Invisible)
@@ -592,7 +599,7 @@ Songs
 212e K.K. Swing
 212f K.K. Jazz
 2130 K.K. Fusion
-2131 K.K. Étude
+2131 K.K. Ã‰tude
 2132 K.K. Lullaby
 2133 K.K. Aria
 2134 K.K. Samba
@@ -635,9 +642,9 @@ Songs
 2159 K.K. Dirge
 215a K.K. Western
 215b Mr. K.K.
-215c Café K.K.
+215c CafÃ© K.K.
 215d K.K. Parade
-215e Señor K.K.
+215e SeÃ±or K.K.
 215f K.K. Song
 2160 I Love You
 2161 Two Days Ago
@@ -686,7 +693,7 @@ Songs (Wall Variants)
 218c K.K. Swing (Wall)
 218d K.K. Jazz (Wall)
 218e K.K. Fusion (Wall)
-218f K.K. Étude (Wall)
+218f K.K. Ã‰tude (Wall)
 2190 K.K. Lullaby (Wall)
 2191 K.K. Aria (Wall)
 2192 K.K. Samba (Wall)
@@ -729,9 +736,9 @@ Songs (Wall Variants)
 21b7 K.K. Dirge (Wall)
 21b8 K.K. Western (Wall)
 21b9 Mr. K.K. (Wall)
-21ba Café K.K. (Wall)
+21ba CafÃ© K.K. (Wall)
 21bb K.K. Parade (Wall)
-21bc Señor K.K. (Wall)
+21bc SeÃ±or K.K. (Wall)
 21bd K.K. Song (Wall)
 21be I Love You (Wall)
 21bf Two Days Ago (Wall)
@@ -780,7 +787,7 @@ Songs (Music Boxes)
 21e7 K.K. Swing (Music Box)
 21e8 K.K. Jazz (Music Box)
 21e9 K.K. Fusion (Music Box)
-21ea K.K. Étude (Music Box)
+21ea K.K. Ã‰tude (Music Box)
 21eb K.K. Lullaby (Music Box)
 21ec K.K. Aria (Music Box)
 21ed K.K. Samba (Music Box)
@@ -823,9 +830,9 @@ Songs (Music Boxes)
 2212 K.K. Dirge (Music Box)
 2213 K.K. Western (Music Box)
 2214 Mr. K.K. (Music Box)
-2215 Café K.K. (Music Box)
+2215 CafÃ© K.K. (Music Box)
 2216 K.K. Parade (Music Box)
-2217 Señor K.K. (Music Box)
+2217 SeÃ±or K.K. (Music Box)
 2218 K.K. Song (Music Box)
 2219 I Love You (Music Box)
 221a Two Days Ago (Music Box)
@@ -1165,7 +1172,7 @@ Wallpaper
 2357 robo-wall
 2358 snowman wall
 2359 forest wall
-235a Pavé wall
+235a PavÃ© wall
 235b egg wall
 235c spooky wall
 235d harvest wall
@@ -1291,7 +1298,7 @@ Wallpaper
 23d5 train-window wall **NEW**
 23d6 waiting-room wall **NEW**
 23d7 steel-frame wall **NEW**
-23d8 café-curtain wall **NEW**
+23d8 cafÃ©-curtain wall **NEW**
 23d9 white brick wall **NEW**
 23da bamboo-grove wall **NEW**
 23db rice-paddy wall **NEW**
@@ -1326,7 +1333,7 @@ Carpets
 23f6 robo-floor
 23f7 snowman carpet
 23f8 forest floor
-23f9 Pavé floor
+23f9 PavÃ© floor
 23fa egg floor
 23fb spooky carpet
 23fc harvest rug
@@ -1540,7 +1547,7 @@ Shirts
 24c9 blue tie-dye tee
 24ca red tie-dye tee
 24cb bold-check tee
-24cc café tee
+24cc cafÃ© tee
 24cd checkered tee
 24ce blue-check tee
 24cf red-check tee
@@ -1815,7 +1822,7 @@ Shirts
 25dc blue pj shirt
 25dd canary shirt
 25de flight-crew shirt
-25df café uniform
+25df cafÃ© uniform
 25e0 peacoat
 25e1 shearling coat
 25e2 mod shirt
@@ -3028,17 +3035,17 @@ Furniture
 2a81 mush wall lamp
 2a82 mush TV
 2a83 mush hanger
-2a84 Pavé bed
-2a85 Pavé chest
-2a86 Pavé closet
-2a87 Pavé sofa
-2a88 Pavé chair
-2a89 Pavé table
-2a8a Pavé end table
-2a8b Pavé bookshelf
-2a8c Pavé bureau
-2a8d Pavé lamp
-2a8e Pavé clock
+2a84 PavÃ© bed
+2a85 PavÃ© chest
+2a86 PavÃ© closet
+2a87 PavÃ© sofa
+2a88 PavÃ© chair
+2a89 PavÃ© table
+2a8a PavÃ© end table
+2a8b PavÃ© bookshelf
+2a8c PavÃ© bureau
+2a8d PavÃ© lamp
+2a8e PavÃ© clock
 2a8f egg bed
 2a90 egg dresser
 2a91 egg wardrobe
@@ -4035,7 +4042,7 @@ Furniture
 2e70 sitar
 2e71 Ayers Rock
 2e72 smoker
-2e73 Gaudí's lizard
+2e73 GaudÃ­'s lizard
 2e74 songpyeon
 2e75 bagpipes
 2e76 Big Ben
@@ -5183,7 +5190,7 @@ Pics
 32df pic of Spike **NEW**
 32e0 pic of Hornsby **NEW**
 32e1 pic of Merengue
-32e2 pic of Renée
+32e2 pic of RenÃ©e
 32e3 pic of Vesta
 32e4 pic of Baabara
 32e5 pic of Eunice
@@ -5196,7 +5203,7 @@ Pics
 32ec pic of Frita
 32ed pic of Muffy
 32ee pic of Pietro
-32ef pic of Étoile **NEW**
+32ef pic of Ã‰toile **NEW**
 32f0 pic of Peanut
 32f1 pic of Blaire
 32f2 pic of Filbert
@@ -5216,7 +5223,7 @@ Pics
 3300 pic of Marshal
 3301 pic of Hazel
 3302 pic of Cece **NEW**
-3303 pic of Viché **NEW**
+3303 pic of VichÃ© **NEW**
 3304 pic of Rolf
 3305 pic of Rowan
 3306 pic of Tybalt **NEW**
@@ -5264,7 +5271,7 @@ Pics (special)
 332d pic of Lyle **NEW**
 332e pic of Blathers **NEW**
 332f pic of Celeste **NEW**
-3330 pic of Pavé **NEW**
+3330 pic of PavÃ© **NEW**
 3331 pic of Pelly **NEW**
 3332 pic of Phyllis **NEW**
 3333 pic of Brewster **NEW**
@@ -5766,7 +5773,7 @@ Shirts (Wall Variants)
 3502 blue tie-dye tee (Wall)
 3503 red tie-dye tee (Wall)
 3504 bold-check tee (Wall)
-3505 café tee (Wall)
+3505 cafÃ© tee (Wall)
 3506 checkered tee (Wall)
 3507 blue-check tee (Wall)
 3508 red-check tee (Wall)
@@ -6041,7 +6048,7 @@ Shirts (Wall Variants)
 3615 blue pj shirt (Wall)
 3616 canary shirt (Wall)
 3617 flight-crew shirt (Wall)
-3618 café uniform (Wall)
+3618 cafÃ© uniform (Wall)
 3619 peacoat (Wall)
 361A shearling coat (Wall)
 361B mod shirt (Wall)
