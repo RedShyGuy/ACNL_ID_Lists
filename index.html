@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>ACNL Music Player</title>
+<style>
+    body {
+        font-family: sans-serif;
+        text-align: center;
+        background: #0c0c0c;
+        color: #eee;
+    }
+    h1 { margin-top: 20px; }
+    .track {
+        background: #1a1a1a;
+        padding: 12px 18px;
+        margin: 10px auto;
+        width: 300px;
+        border-radius: 12px;
+        cursor: pointer;
+        transition: background 0.18s;
+    }
+    .track:hover { background: #272727; }
+    #ytplayer {
+        width: 1px;
+        height: 1px;
+        opacity: 0;
+        pointer-events: none;
+        position: absolute;
+    }
+</style>
+</head>
+<body>
+<h1>Animal Crossing: New Leaf – Music Player</h1>
+<p>Klick auf einen Track 👇</p>
+
+<!-- Playlist Buttons -->
+<div class="track" onclick="play('VIDEO_ID_1')">Outdoor 12:00 Sunny</div>
+<div class="track" onclick="play('VIDEO_ID_2')">Outdoor 18:00 Rainy</div>
+<div class="track" onclick="play('VIDEO_ID_3')">Town Hall Theme</div>
+
+<!-- Hidden YouTube Player -->
+<div id="player"></div>
+
+<script>
+    let tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    document.head.appendChild(tag);
+
+    let player;
+
+    function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+            height: '1',
+            width: '1',
+            videoId: '',
+            playerVars: {
+                'autoplay': 1,
+                'controls': 0,
+                'modestbranding': 1,
+                'loop': 1,
+                'playlist': '' 
+            }
+        });
+    }
+
+    function play(videoId) {
+        player.loadVideoById(videoId);
+    }
+</script>
+
+</body>
+</html>
