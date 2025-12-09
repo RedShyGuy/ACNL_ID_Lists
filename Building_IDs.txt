@@ -165,7 +165,7 @@ B9 Jungle Gym
 BA Park Clock
 BB Modern Clock
 BC Fairy-Tale Clock
-BD Street Lamp
+BD Zen Clock
 BE Street Lamp
 BF Round Streetlight
 C0 Streetlight
@@ -235,3 +235,4 @@ FB Campground Fence Lock 2
 Empty Space
 ------------------
 FC Empty Space
+
