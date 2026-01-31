@@ -1,0 +1,70 @@
+00- Actual Inventory
+01- Pattern Menu
+02- Bug Menu
+03- TPC
+04- BFF Menu
+05- Keyboard
+06- Emotion menu
+07- People Here
+08- Save where (kappa girl)
+09- Give what?
+0A- Sell what? (Reese)
+0B- Choose a song!
+0C- Give what? (Fish eater)
+0D- Give what? (Gecko)
+0E- Give what? (Jack)
+0F- Donate what? (Blathers)
+10- Access what?
+13- Show what? (Cyrus)
+14- Display what? (Reese)
+19- Give what? (Cyrus)
+1A- Give what? (Turkey)
+20- Give what? (Kappa girl)
+21- Give what?
+22- Give what?
+2A- Throw Away
+2B- Wrapping
+2C- Sell what?
+2D- Give what? (Isabelle)
+2E- Change date and time
+2F- Choose a time to meet
+30- Select Date (Mail)
+31- When is your birthday?
+32- How many turnips do you want?
+33- Sell for what price? (Reese)
+34- Bells?
+35- Enter Pin...?
+36- Enter Dream Address
+37- Deposit
+38- Withdrawal
+3A: Bell Donation
+3B- Coupon Convert
+3C- ??
+3D- Locker
+3E- Island Bin (Town)
+3F- Island Bin (Island)
+40- Lloid
+41- Mail
+42- Mail Sending
+43- Give what?
+44- CRASH/Mail Saving
+45- ???
+47- CRASH/Bulletin Board
+4A- Pocket drop
+4B- Pocket drop
+4C- Pocket drop
+4D- CRASH
+4F- Town Flag
+60- Mii Selector 
+61- CRASH
+74- BFF Menu 
+77- Towns Open
+79- Town Tune
+7B- Edit pattern menu
+7C- Check 1F Exhibits
+7D- Tour Menu
+84- Move Furniture (Crash if used in someone else's town or outdoors!}
+87- Meow Coupons
+89- House Storage
+8A- Return Home
+8C- ??
